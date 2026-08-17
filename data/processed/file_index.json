@@ -1,0 +1,2502 @@
+{
+  "doc_44_嵌入式系统开发要点.txt": {
+    "hash": "14f98c37355033728c8e49c83db21ee9",
+    "last_modified": "2025-12-04T23:19:12.333308",
+    "status": "new"
+  },
+  "doc_47_创新方法与技术趋势洞察.txt": {
+    "hash": "2f2b30a1d7eba610a8c5507bbad0ff12",
+    "last_modified": "2025-12-04T23:19:12.333474",
+    "status": "new"
+  },
+  "doc_13_高效团队协作与Git工作流.txt": {
+    "hash": "17e47ddb8a28680a5e8a2a20e42bf803",
+    "last_modified": "2025-12-04T23:19:12.333626",
+    "status": "new"
+  },
+  "doc_52_AI安全与对齐技术研究.txt": {
+    "hash": "63fddc935dfcc524b95c9d9207bcbe8e",
+    "last_modified": "2025-12-04T23:19:12.333802",
+    "status": "new"
+  },
+  "doc_10_分布式系统一致性与共识算法.txt": {
+    "hash": "82881f407515d2a8de29cf4e83c12c88",
+    "last_modified": "2025-12-04T23:19:12.333965",
+    "status": "new"
+  },
+  "doc_09_网络安全纵深防御体系.txt": {
+    "hash": "9ac6827e6fdb6b644168c969f7e2baf8",
+    "last_modified": "2025-12-04T23:19:12.334136",
+    "status": "new"
+  },
+  "doc_54_软件工程新范式低代码与AI编程.txt": {
+    "hash": "fbbb90f2f1630acd10111434edc651bc",
+    "last_modified": "2025-12-04T23:19:12.334340",
+    "status": "new"
+  },
+  "doc_05_微服务通信与集成策略.txt": {
+    "hash": "c4cc106bc9fe41118b461a6511ad5a03",
+    "last_modified": "2025-12-04T23:19:12.334516",
+    "status": "new"
+  },
+  "doc_18_区块链技术原理与应用场景.txt": {
+    "hash": "255b03eb57fa41506cfc695074133bff",
+    "last_modified": "2025-12-04T23:19:12.334700",
+    "status": "new"
+  },
+  "doc_31_混沌工程与系统韧性建设.txt": {
+    "hash": "537fc95b0e5b254fddadb8f371397c6f",
+    "last_modified": "2025-12-04T23:19:12.334853",
+    "status": "new"
+  },
+  "doc_19_物联网平台架构与技术栈.txt": {
+    "hash": "37c26c538fabfeb530d5ad8b934a7787",
+    "last_modified": "2025-12-04T23:19:12.335031",
+    "status": "new"
+  },
+  "doc_35_数据仓库与数据湖设计模式.txt": {
+    "hash": "f9e6938b29099a38e861e7b06d8c0f60",
+    "last_modified": "2025-12-04T23:19:12.335186",
+    "status": "new"
+  },
+  "doc_01_现代JavaScript编程精髓.txt": {
+    "hash": "1b531bb4edfd2851bb16a3a56f0f3849",
+    "last_modified": "2025-12-04T23:19:12.335340",
+    "status": "new"
+  },
+  "doc_41_知识图谱构建与应用.txt": {
+    "hash": "03670f66b144d940e78f3cb36e5057d2",
+    "last_modified": "2025-12-04T23:19:12.335508",
+    "status": "new"
+  },
+  "doc_45_量子计算基础概念解析.txt": {
+    "hash": "37a921459323f6c17157d10b5df22cd1",
+    "last_modified": "2025-12-04T23:19:12.335662",
+    "status": "new"
+  },
+  "doc_48_技术写作与文档工程.txt": {
+    "hash": "99d626308e023a2fc6f5f1c2a9bcf406",
+    "last_modified": "2025-12-04T23:19:12.335812",
+    "status": "new"
+  },
+  "doc_08_DevOps文化与工具链落地.txt": {
+    "hash": "98c07748c96e4ab4e0a2d267bd715967",
+    "last_modified": "2025-12-04T23:19:12.335964",
+    "status": "new"
+  },
+  "doc_11_大数据处理架构与技术选型.txt": {
+    "hash": "9643c8f255cf9f10e7f19e7dd39957ed",
+    "last_modified": "2025-12-04T23:19:12.336134",
+    "status": "new"
+  },
+  "doc_53_边缘智能与AI物联网融合.txt": {
+    "hash": "32719052fce8bf4a5f1760f4157fe1db",
+    "last_modified": "2025-12-04T23:19:12.336289",
+    "status": "new"
+  },
+  "doc_30_SRE站点可靠性工程实践.txt": {
+    "hash": "766ea00e07d63df3589f5978e92a7178",
+    "last_modified": "2025-12-04T23:19:12.336443",
+    "status": "new"
+  },
+  "doc_14_软件测试策略与质量保障.txt": {
+    "hash": "e20c719b1b28a0019da77f610cdad54b",
+    "last_modified": "2025-12-04T23:19:12.336594",
+    "status": "new"
+  },
+  "doc_36_实时流处理技术解析.txt": {
+    "hash": "66a89ef7b6ca76279f13d0e70ed1331a",
+    "last_modified": "2025-12-04T23:19:12.336743",
+    "status": "new"
+  },
+  "doc_12_代码重构与可维护性提升.txt": {
+    "hash": "b5ada76d88a2ffbe2b393bbe81e17794",
+    "last_modified": "2025-12-04T23:19:12.336893",
+    "status": "new"
+  },
+  "doc_03_机器学习系统设计模式.txt": {
+    "hash": "5ac2c43528924c7faa35d3b5fc0cebf4",
+    "last_modified": "2025-12-04T23:19:12.337044",
+    "status": "new"
+  },
+  "doc_02_云原生架构设计原则.txt": {
+    "hash": "33a98456ddc0872b3259cd0077eed4b9",
+    "last_modified": "2025-12-04T23:19:12.337190",
+    "status": "new"
+  },
+  "doc_25_计算机组成与体系结构概要.txt": {
+    "hash": "df73c74ac4a124d200b024c0a4f48a05",
+    "last_modified": "2025-12-04T23:19:12.337339",
+    "status": "new"
+  },
+  "doc_26_操作系统原理与内核概念.txt": {
+    "hash": "27a6198e55233d281d21a26eaeb5b0af",
+    "last_modified": "2025-12-04T23:19:12.337485",
+    "status": "new"
+  },
+  "doc_37_搜索引擎原理与核心算法.txt": {
+    "hash": "42bda5168f58e7c634ee21f2c294f22d",
+    "last_modified": "2025-12-04T23:19:12.337632",
+    "status": "new"
+  },
+  "doc_17_人工智能伦理与治理框架.txt": {
+    "hash": "3ebf646358227b6bc12aeb1b32ec4bf7",
+    "last_modified": "2025-12-04T23:19:12.337780",
+    "status": "new"
+  },
+  "doc_21_用户体验设计原则与实践.txt": {
+    "hash": "f48b133f58a4412ac779458ecc846b95",
+    "last_modified": "2025-12-04T23:19:12.337925",
+    "status": "new"
+  },
+  "doc_20_移动应用性能优化全攻略.txt": {
+    "hash": "822114316917df143b9b78ae76917c13",
+    "last_modified": "2025-12-04T23:19:12.338071",
+    "status": "new"
+  },
+  "doc_00_Python最佳实践.txt": {
+    "hash": "3427212f3e15529d507122abac659347",
+    "last_modified": "2025-12-04T23:19:12.338221",
+    "status": "new"
+  },
+  "doc_27_计算机网络协议深度解读.txt": {
+    "hash": "5dd75662ccfa66045313dd4d7af8e287",
+    "last_modified": "2025-12-04T23:19:12.338372",
+    "status": "new"
+  },
+  "doc_07_前端工程化与构建优化.txt": {
+    "hash": "56ecc7a427527b69b0f51d98e39d52a4",
+    "last_modified": "2025-12-04T23:19:12.338525",
+    "status": "new"
+  },
+  "doc_15_持续集成与持续交付实战.txt": {
+    "hash": "d4a8ad3933efb18eb7a42c05187bba8e",
+    "last_modified": "2025-12-04T23:19:12.338683",
+    "status": "new"
+  },
+  "doc_22_产品管理与敏捷开发方法论.txt": {
+    "hash": "77061c763df6a449e39f134e75dfe272",
+    "last_modified": "2025-12-04T23:19:12.338869",
+    "status": "new"
+  },
+  "doc_33_无服务器计算与FaaS平台.txt": {
+    "hash": "354c0f8f6c079586ecbe614937dc6cb3",
+    "last_modified": "2025-12-04T23:19:12.339022",
+    "status": "new"
+  },
+  "doc_16_系统可观测性建设指南.txt": {
+    "hash": "d2205afe95b1514253c4c60f1e1acc85",
+    "last_modified": "2025-12-04T23:19:12.339168",
+    "status": "new"
+  },
+  "doc_43_图形学与游戏开发基础.txt": {
+    "hash": "6d3f3d285cca4cbb9fba5001a5259b1e",
+    "last_modified": "2025-12-04T23:19:12.339317",
+    "status": "new"
+  },
+  "doc_38_推荐系统设计与评估方法.txt": {
+    "hash": "04759b6fa655b61bf68f69f24f15cc47",
+    "last_modified": "2025-12-04T23:19:12.339463",
+    "status": "new"
+  },
+  "doc_06_数据库事务与并发控制.txt": {
+    "hash": "bc3a3b60ad476a9fb3fe1980c853e068",
+    "last_modified": "2025-12-04T23:19:12.339613",
+    "status": "new"
+  },
+  "doc_24_算法设计与复杂度分析基础.txt": {
+    "hash": "1fe356453a24c9464c3b82393a2559be",
+    "last_modified": "2025-12-04T23:19:12.339764",
+    "status": "new"
+  },
+  "doc_34_边缘计算与分布式云架构.txt": {
+    "hash": "b31a5f8b2d9419d00fd3e8eef2483e24",
+    "last_modified": "2025-12-04T23:19:12.339947",
+    "status": "new"
+  },
+  "doc_49_个人知识管理系统构建.txt": {
+    "hash": "e6db74fe4a4f906542de3dc179975fc8",
+    "last_modified": "2025-12-04T23:19:12.340098",
+    "status": "new"
+  },
+  "doc_51_生成式AI与大型语言模型深度解析.txt": {
+    "hash": "c995264b9ab4830fa1bd3573b2d71201",
+    "last_modified": "2025-12-04T23:19:12.340244",
+    "status": "new"
+  },
+  "doc_04_深入理解容器与编排技术.txt": {
+    "hash": "a02dc7745282b34bb21edd71d1c31243",
+    "last_modified": "2025-12-04T23:19:12.340390",
+    "status": "new"
+  },
+  "doc_42_强化学习理论与实战.txt": {
+    "hash": "1dd4092d4b28aa9cf22c612b64209bda",
+    "last_modified": "2025-12-04T23:19:12.340544",
+    "status": "new"
+  },
+  "doc_28_编译原理与程序构建过程.txt": {
+    "hash": "5f05463b15301d3356a1480d1978a411",
+    "last_modified": "2025-12-04T23:19:12.340693",
+    "status": "new"
+  },
+  "doc_29_加密学与信息安全数学基础.txt": {
+    "hash": "f9d66ed31d19a5b44ca4e929cd6f5710",
+    "last_modified": "2025-12-04T23:19:12.340843",
+    "status": "new"
+  },
+  "doc_32_服务网格与API网关演进.txt": {
+    "hash": "a2448a518a5bb895f92d9d313c7234c6",
+    "last_modified": "2025-12-04T23:19:12.340996",
+    "status": "new"
+  },
+  "doc_50_软件架构师成长路径.txt": {
+    "hash": "aa10e7fa0f061241c2ed13bf8b7a8da7",
+    "last_modified": "2025-12-04T23:19:12.341141",
+    "status": "new"
+  },
+  "doc_23_技术领导力与架构师成长.txt": {
+    "hash": "cc385c2e357547fe90cf4928e5a61cc9",
+    "last_modified": "2025-12-04T23:19:12.341292",
+    "status": "new"
+  },
+  "doc_46_数字化转型与技术战略.txt": {
+    "hash": "ae3a3865a98ab8a7cd69f148138584b3",
+    "last_modified": "2025-12-04T23:19:12.341435",
+    "status": "new"
+  },
+  "doc_39_计算机视觉技术入门指南.txt": {
+    "hash": "d1ef98eae08cf6031f3fcd52d3f3df65",
+    "last_modified": "2025-12-04T23:19:12.341610",
+    "status": "new"
+  },
+  "doc_40_自然语言处理核心任务.txt": {
+    "hash": "ec67bd057477b1f3bca2259c553cfe3b",
+    "last_modified": "2025-12-04T23:19:12.341770",
+    "status": "new"
+  },
+  "doc_62_现代医学影像技术原理、应用与发展趋势综述.txt": {
+    "hash": "8bdbeb1c40c9f4dbe9465f869b51f727",
+    "last_modified": "2025-12-14T16:23:35.732647",
+    "status": "new"
+  },
+  "doc_165_生物学研究进展细胞生物学.txt": {
+    "hash": "0a5720dcb32c55ca84e341e01ca0b017",
+    "last_modified": "2025-12-15T20:56:38.477757",
+    "status": "new"
+  },
+  "doc_362_plasma_displays.txt": {
+    "hash": "0e9b777f45eb5bf7fa26fd216e7c7c13",
+    "last_modified": "2025-12-15T20:56:38.478035",
+    "status": "new"
+  },
+  "doc_56_中式烹饪中的火候掌握技巧.txt": {
+    "hash": "745bbfdbc50bcc263e8a7c777898527b",
+    "last_modified": "2025-12-15T20:56:38.478167",
+    "status": "new"
+  },
+  "doc_83_现代分子生物学基因编辑技术原理与应用.txt": {
+    "hash": "c95c79d8a650f8d1380483477da0a77a",
+    "last_modified": "2025-12-15T20:56:38.478312",
+    "status": "new"
+  },
+  "doc_108_现代化学无机化学研究前沿发展与应用前景.txt": {
+    "hash": "af5394d31261f3442c9f78b99c478daa",
+    "last_modified": "2025-12-15T20:56:38.478450",
+    "status": "new"
+  },
+  "doc_387_organic_thin_film_transistors.txt": {
+    "hash": "a0f222cec5a5a9cfed0b6a0507ca0dd4",
+    "last_modified": "2025-12-15T20:56:38.478579",
+    "status": "new"
+  },
+  "doc_289_脑机接口技术最新进展.txt": {
+    "hash": "56933980df6057db58096d4bbebefa3f",
+    "last_modified": "2025-12-15T20:56:38.478714",
+    "status": "new"
+  },
+  "doc_375_liquid_crystal_polymers.txt": {
+    "hash": "c39c1a2fd5c067b6e8a70cf374d4552c",
+    "last_modified": "2025-12-15T20:56:38.478975",
+    "status": "new"
+  },
+  "doc_476_农业技术.txt": {
+    "hash": "9cbe84feb7e830c1bf8224da5a43d636",
+    "last_modified": "2025-12-15T20:56:38.479122",
+    "status": "new"
+  },
+  "doc_213_农业工程技术发展与智慧农业应用.txt": {
+    "hash": "f4b7baf042de015a209effb3f78dea10",
+    "last_modified": "2025-12-15T20:56:38.479261",
+    "status": "new"
+  },
+  "doc_71_行为金融学：心理学如何重塑金融市场理解.txt": {
+    "hash": "5a5441831f771566924f55e6dad43e40",
+    "last_modified": "2025-12-15T20:56:38.479466",
+    "status": "new"
+  },
+  "doc_167_医学研究进展临床医学.txt": {
+    "hash": "10b8c0a9f388fdcb84da9ad6366a5a2f",
+    "last_modified": "2025-12-15T20:56:38.479668",
+    "status": "new"
+  },
+  "doc_319_全息显示技术发展.txt": {
+    "hash": "439141f689d3eab4c4ab892dcb672715",
+    "last_modified": "2025-12-15T20:56:38.479805",
+    "status": "new"
+  },
+  "doc_417_quantum_dots_solar_cells.txt": {
+    "hash": "3d7990c9e46217af45043b12f02c59ef",
+    "last_modified": "2025-12-15T20:56:38.479940",
+    "status": "new"
+  },
+  "doc_479_新能源技术.txt": {
+    "hash": "14e48428821eda40efcf672d4a0b6d74",
+    "last_modified": "2025-12-15T20:56:38.480088",
+    "status": "new"
+  },
+  "doc_276_海洋生物资源开发利用.txt": {
+    "hash": "99612d8b141e4bdbe36ffa02b4a41b05",
+    "last_modified": "2025-12-15T20:56:38.480225",
+    "status": "new"
+  },
+  "doc_471_环保技术.txt": {
+    "hash": "328ed3bcee35234829c2567824c8f11d",
+    "last_modified": "2025-12-15T20:56:38.480389",
+    "status": "new"
+  },
+  "doc_473_通信技术.txt": {
+    "hash": "437de2345a3b74c00550eaf32ccc996f",
+    "last_modified": "2025-12-15T20:56:38.480546",
+    "status": "new"
+  },
+  "doc_429_renewable_energy_solar_wind_storage.txt": {
+    "hash": "3ad05fa0efc6beb8b3eec1f58b07257b",
+    "last_modified": "2025-12-15T20:56:38.480811",
+    "status": "new"
+  },
+  "doc_389_electrowetting_displays.txt": {
+    "hash": "6d25cb5c55bb16ff2f8931624ef6b8b2",
+    "last_modified": "2025-12-15T20:56:38.480940",
+    "status": "new"
+  },
+  "doc_177_体育学研究进展运动科学.txt": {
+    "hash": "27ebd042187f3319982eda6dddeaebc7",
+    "last_modified": "2025-12-15T20:56:38.481077",
+    "status": "new"
+  },
+  "doc_309_超导材料应用突破.txt": {
+    "hash": "8567ec290c0a9fea43ee2e905d5bf5de",
+    "last_modified": "2025-12-15T20:56:38.481211",
+    "status": "new"
+  },
+  "doc_265_气候工程技术应用研究进展.txt": {
+    "hash": "09f813182e137097f8a4966f6d423872",
+    "last_modified": "2025-12-15T20:56:38.481348",
+    "status": "new"
+  },
+  "doc_300_碳捕获封存技术突破.txt": {
+    "hash": "870baeff5c437c2e42b4a1a78f8d3beb",
+    "last_modified": "2025-12-15T20:56:38.481499",
+    "status": "new"
+  },
+  "doc_182_电子工程研究进展通信技术.txt": {
+    "hash": "60cc86cfe9fcd0ad7baef7aa723e5ec9",
+    "last_modified": "2025-12-15T20:56:38.481633",
+    "status": "new"
+  },
+  "doc_363_quantum_dot_leds.txt": {
+    "hash": "e894167c49d84f4cc42fb88e58b210d1",
+    "last_modified": "2025-12-15T20:56:38.481759",
+    "status": "new"
+  },
+  "doc_464_新一代信息技术.txt": {
+    "hash": "71e44f8c04c21d2ba85051fec1da4b42",
+    "last_modified": "2025-12-15T20:56:38.481901",
+    "status": "new"
+  },
+  "doc_91_现代能源科学太阳能技术发展现状与前景.txt": {
+    "hash": "c52370504ebfe70450aee28623776a49",
+    "last_modified": "2025-12-15T20:56:38.482058",
+    "status": "new"
+  },
+  "doc_153_生物信息学研究进展基因组学.txt": {
+    "hash": "22c7522ddcd5e311d5f5e7bba88b9730",
+    "last_modified": "2025-12-15T20:56:38.482191",
+    "status": "new"
+  },
+  "doc_189_测控工程技术发展与应用.txt": {
+    "hash": "d1854e6c0d2b6c631fae02fb05cbe28a",
+    "last_modified": "2025-12-15T20:56:38.482448",
+    "status": "new"
+  },
+  "doc_251_新材料石墨烯纳米材料应用.txt": {
+    "hash": "4954915ebfbefa0ee75b6d65f696018d",
+    "last_modified": "2025-12-15T20:56:38.482611",
+    "status": "new"
+  },
+  "doc_191_航海技术发展与现代化应用.txt": {
+    "hash": "91a521ceadc274ce37289c00b2d36e90",
+    "last_modified": "2025-12-15T20:56:38.482764",
+    "status": "new"
+  },
+  "doc_72_城市形态学：空间结构与人类行为的互动科学.txt": {
+    "hash": "0751f413a5e32b5dd9c6e9c7993d6a33",
+    "last_modified": "2025-12-15T20:56:38.483033",
+    "status": "new"
+  },
+  "doc_168_天文学研究进展宇宙学.txt": {
+    "hash": "0d84376bc2187bc2d244403f94d09b63",
+    "last_modified": "2025-12-15T20:56:38.483168",
+    "status": "new"
+  },
+  "doc_376_quantum_well_photodetectors.txt": {
+    "hash": "9b7c1192de5e43bc68a36fef8ee2787b",
+    "last_modified": "2025-12-15T20:56:38.483295",
+    "status": "new"
+  },
+  "doc_246_伦理学技术发展与应用伦理应用.txt": {
+    "hash": "09951debd1ed080438c593ed41657ab4",
+    "last_modified": "2025-12-15T20:56:38.483424",
+    "status": "new"
+  },
+  "doc_221_法学技术发展与现代法律科技应用.txt": {
+    "hash": "fb78e5f9aefbaea73d52804b59e53157",
+    "last_modified": "2025-12-15T20:56:38.483580",
+    "status": "new"
+  },
+  "doc_495_太空探索技术最新突破.txt": {
+    "hash": "165557bd3dbb35e3360da8d5f08e7e91",
+    "last_modified": "2025-12-15T20:56:38.483846",
+    "status": "new"
+  },
+  "doc_488_绿色氢能制备技术突破.txt": {
+    "hash": "2819f61a6771edcd7e3046e05b1d1633",
+    "last_modified": "2025-12-15T20:56:38.483977",
+    "status": "new"
+  },
+  "doc_494_无线充电技术发展现状.txt": {
+    "hash": "23d284f3616136a9c30d6ed8a3fa30b8",
+    "last_modified": "2025-12-15T20:56:38.484111",
+    "status": "new"
+  },
+  "doc_350_organic_photovoltaic.txt": {
+    "hash": "5e7d59120da24b0078c60495b874b525",
+    "last_modified": "2025-12-15T20:56:38.484243",
+    "status": "new"
+  },
+  "doc_157_药学研究新药开发.txt": {
+    "hash": "bb72e5fec350ea95eec31a3f35883cd2",
+    "last_modified": "2025-12-15T20:56:38.484375",
+    "status": "new"
+  },
+  "doc_102_中国古代文学唐诗宋词研究现状与学术价值.txt": {
+    "hash": "20a3efa22d127c1ae0b8e3639da4c241",
+    "last_modified": "2025-12-15T20:56:38.484506",
+    "status": "new"
+  },
+  "doc_271_智能机器人技术前沿突破.txt": {
+    "hash": "1856e5930bb3e653c5462c8dde4e94a7",
+    "last_modified": "2025-12-15T20:56:38.484645",
+    "status": "new"
+  },
+  "doc_173_哲学研究进展伦理学.txt": {
+    "hash": "835e3de3d7f51989ceff25bbeaf8709c",
+    "last_modified": "2025-12-15T20:56:38.484780",
+    "status": "new"
+  },
+  "doc_426_quantum_cryptography_post_quantum.txt": {
+    "hash": "55234a6a7af9a8ecc675de979531952c",
+    "last_modified": "2025-12-15T20:56:38.484917",
+    "status": "new"
+  },
+  "doc_225_文学技术发展与数字人文应用.txt": {
+    "hash": "ffac867936cb7d6e6f0ee6e90c17eed1",
+    "last_modified": "2025-12-15T20:56:38.485050",
+    "status": "new"
+  },
+  "doc_114_现代医学免疫学研究进展.txt": {
+    "hash": "de1113b3296026369cbe71cdd43259e4",
+    "last_modified": "2025-12-15T20:56:38.485304",
+    "status": "new"
+  },
+  "doc_390_microled_displays.txt": {
+    "hash": "5d4d5a368ab76f96236b4b091c6e6d5b",
+    "last_modified": "2025-12-15T20:56:38.485435",
+    "status": "new"
+  },
+  "doc_268_生物芯片技术发展最新进展.txt": {
+    "hash": "97508b3503f27ae8f67dd2e30417143d",
+    "last_modified": "2025-12-15T20:56:38.485569",
+    "status": "new"
+  },
+  "doc_215_计算机工程技术发展与人工智能机器学习.txt": {
+    "hash": "0388e8f0f893e43d42d871f466cf112b",
+    "last_modified": "2025-12-15T20:56:38.485697",
+    "status": "new"
+  },
+  "doc_498_6G通信技术研发进展.txt": {
+    "hash": "4ceb7f94876e7a4723d4031dc2ca621a",
+    "last_modified": "2025-12-15T20:56:38.485824",
+    "status": "new"
+  },
+  "doc_58_微观经济学中的供需模型解析.txt": {
+    "hash": "b2272cdf13d8bd1edad1d84c03d339ec",
+    "last_modified": "2025-12-15T20:56:38.485951",
+    "status": "new"
+  },
+  "doc_384_ferroelectric_field_effect_transistors.txt": {
+    "hash": "d8c0cabde36b3bf80b15924005e61990",
+    "last_modified": "2025-12-15T20:56:38.486077",
+    "status": "new"
+  },
+  "doc_161_历史学研究方法史学理论.txt": {
+    "hash": "6c7d3519b72c9a30a90efad0f2fad034",
+    "last_modified": "2025-12-15T20:56:38.486209",
+    "status": "new"
+  },
+  "doc_402_quantum_dot_infrared_photodetectors.txt": {
+    "hash": "f1fba855c4248817d4c1ce9b40b8ea10",
+    "last_modified": "2025-12-15T20:56:38.486334",
+    "status": "new"
+  },
+  "doc_195_药物化学现代药物设计与发现.txt": {
+    "hash": "357f39f3bf5746db70cb41c24209a3d7",
+    "last_modified": "2025-12-15T20:56:38.486461",
+    "status": "new"
+  },
+  "doc_413_carbon_nanotube_transistors.txt": {
+    "hash": "d8d8e14cd2421d6303ebdadd2d940693",
+    "last_modified": "2025-12-15T20:56:38.486587",
+    "status": "new"
+  },
+  "doc_353_dna_computing.txt": {
+    "hash": "85153c111d59d5d223df3c8b2d5cd076",
+    "last_modified": "2025-12-15T20:56:38.486714",
+    "status": "new"
+  },
+  "doc_455_先进储能技术.txt": {
+    "hash": "38f1593fe89510e2a64384808122f048",
+    "last_modified": "2025-12-15T20:56:38.486849",
+    "status": "new"
+  },
+  "doc_320_量子传感器技术.txt": {
+    "hash": "3a9cf8541948b5c27ab4154c6a31cb53",
+    "last_modified": "2025-12-15T20:56:38.486981",
+    "status": "new"
+  },
+  "doc_278_仿生机器人技术最新发展.txt": {
+    "hash": "b58bcaccaea172c9a6c0f21fc3e78401",
+    "last_modified": "2025-12-15T20:56:38.487114",
+    "status": "new"
+  },
+  "doc_298_量子加密通信技术最新进展.txt": {
+    "hash": "d21ff3d69922330c7633cd5c2154e15e",
+    "last_modified": "2025-12-15T20:56:38.487243",
+    "status": "new"
+  },
+  "doc_61_古希腊哲学三巨擘：苏格拉底、柏拉图与亚里士多德思想体系比较研究.txt": {
+    "hash": "c40b58ed4e575acf1b8be4e441a0d8fe",
+    "last_modified": "2025-12-15T20:56:38.487373",
+    "status": "new"
+  },
+  "doc_99_世界经济学发展史资本主义演变历程与未来趋势.txt": {
+    "hash": "c5f6f7b01133e43f998222139f216d4a",
+    "last_modified": "2025-12-15T20:56:38.487504",
+    "status": "new"
+  },
+  "doc_269_3D打印生物医学应用研究.txt": {
+    "hash": "bd527a3f1b8b5747be0c55a1c8d4c750",
+    "last_modified": "2025-12-15T20:56:38.487637",
+    "status": "new"
+  },
+  "doc_470_生物技术.txt": {
+    "hash": "2789cc071c5eb09a08218a55f2334b27",
+    "last_modified": "2025-12-15T20:56:38.487900",
+    "status": "new"
+  },
+  "doc_435_augmented_reality_virtual_reality_metaverse.txt": {
+    "hash": "1d8a11a8009c0c99737edd521762c0b7",
+    "last_modified": "2025-12-15T20:56:38.488044",
+    "status": "new"
+  },
+  "doc_348_spintronic_devices.txt": {
+    "hash": "66ddf12e9d78d516291d90b4210014ad",
+    "last_modified": "2025-12-15T20:56:38.488290",
+    "status": "new"
+  },
+  "doc_385_memristive_devices.txt": {
+    "hash": "49d4d4309b091f6febdd832276276156",
+    "last_modified": "2025-12-15T20:56:38.488536",
+    "status": "new"
+  },
+  "doc_274_可再生能源技术发展趋势.txt": {
+    "hash": "c9bfaaee047ede4e86330cfd28add97d",
+    "last_modified": "2025-12-15T20:56:38.488668",
+    "status": "new"
+  },
+  "doc_357_carbon_fiber_composites.txt": {
+    "hash": "0400f8a2349d611c32927821f3bad039",
+    "last_modified": "2025-12-15T20:56:38.488795",
+    "status": "new"
+  },
+  "doc_66_绿色建筑设计理念、关键技术与发展趋势研究.txt": {
+    "hash": "006c17ded9d1f70c8398b01d0df20d57",
+    "last_modified": "2025-12-15T20:56:38.488926",
+    "status": "new"
+  },
+  "doc_208_生物工程技术发展与现代生物技术应用.txt": {
+    "hash": "a50f0632fae21676ee09badee8a4cbb6",
+    "last_modified": "2025-12-15T20:56:38.489054",
+    "status": "new"
+  },
+  "doc_410_quantum_dot_light_emitting_diodes.txt": {
+    "hash": "4698646c73a8185f9f43065707fd02d5",
+    "last_modified": "2025-12-15T20:56:38.489179",
+    "status": "new"
+  },
+  "doc_359_semiconductor_laser_diodes.txt": {
+    "hash": "55ed7c3f661aef29f46e90c326b9b06e",
+    "last_modified": "2025-12-15T20:56:38.489308",
+    "status": "new"
+  },
+  "doc_188_核工程技术应用与发展.txt": {
+    "hash": "2d408c627fb2e1cb41d8088477ce3892",
+    "last_modified": "2025-12-15T20:56:38.489435",
+    "status": "new"
+  },
+  "doc_411_flexible_organic_solar_cells.txt": {
+    "hash": "50ddb56959846fc06df5ada9ebd58689",
+    "last_modified": "2025-12-15T20:56:38.489560",
+    "status": "new"
+  },
+  "doc_104_世界古代文明中国先秦历史研究新成果与学术价值.txt": {
+    "hash": "ff3950c593e736876b4051c24cfaa2a6",
+    "last_modified": "2025-12-15T20:56:38.489691",
+    "status": "new"
+  },
+  "doc_117_世界语言学研究比较语言学.txt": {
+    "hash": "392a567dbe7157edef654a5aa20181d8",
+    "last_modified": "2025-12-15T20:56:38.489825",
+    "status": "new"
+  },
+  "doc_358_lithium_ion_batteries.txt": {
+    "hash": "73aa3c176c199d30cf3e9ee2168b3ee1",
+    "last_modified": "2025-12-15T20:56:38.489951",
+    "status": "new"
+  },
+  "doc_409_photonic_crystal_fibers_applications.txt": {
+    "hash": "5f340f179b7bb54ebbd6108036d1b2df",
+    "last_modified": "2025-12-15T20:56:38.490078",
+    "status": "new"
+  },
+  "doc_209_软件工程技术发展与人工智能软件开发.txt": {
+    "hash": "245a744dc3656056920b7d296a470d09",
+    "last_modified": "2025-12-15T20:56:38.490209",
+    "status": "new"
+  },
+  "doc_82_现代环境科学生态修复技术发展与应用.txt": {
+    "hash": "e785ce3c72fb6b85528eb62db22551a5",
+    "last_modified": "2025-12-15T20:56:38.490338",
+    "status": "new"
+  },
+  "doc_133_现代历史学方法论史学研究.txt": {
+    "hash": "7590ad438c791398008775a4ba986ca6",
+    "last_modified": "2025-12-15T20:56:38.490497",
+    "status": "new"
+  },
+  "doc_124_天体物理学宇宙学星系研究.txt": {
+    "hash": "2854eac48d0c9b8dba34a4bc017cba4e",
+    "last_modified": "2025-12-15T20:56:38.490795",
+    "status": "new"
+  },
+  "doc_421_room_temperature_superconductors.txt": {
+    "hash": "45d6f22fdc3f14597a3b85c8dc63211a",
+    "last_modified": "2025-12-15T20:56:38.490969",
+    "status": "new"
+  },
+  "doc_418_2D_materials_beyond_graphene.txt": {
+    "hash": "bbb1f44acb49a1083794e4670f2c3324",
+    "last_modified": "2025-12-15T20:56:38.491242",
+    "status": "new"
+  },
+  "doc_344_ferroelectric_materials.txt": {
+    "hash": "e26e6db3395d30f7a8373ed85edd0b45",
+    "last_modified": "2025-12-15T20:56:38.491370",
+    "status": "new"
+  },
+  "doc_311_磁悬浮交通技术.txt": {
+    "hash": "2dc14bad7ffa542b52edafd3585ac29a",
+    "last_modified": "2025-12-15T20:56:38.491516",
+    "status": "new"
+  },
+  "doc_332_perovskite_solar_cells.txt": {
+    "hash": "cb04ed41a8b4122e4d17936517a449b6",
+    "last_modified": "2025-12-15T20:56:38.491695",
+    "status": "new"
+  },
+  "doc_247_政治经济学技术发展与全球治理应用.txt": {
+    "hash": "1341ccc09700739a9a3ce48d8848bf69",
+    "last_modified": "2025-12-15T20:56:38.491880",
+    "status": "new"
+  },
+  "doc_441_digital_twin_simulation_modeling_industrial_IoT.txt": {
+    "hash": "6a7c8f1b8252b82f643f7c2e5d6f1941",
+    "last_modified": "2025-12-15T20:56:38.492051",
+    "status": "new"
+  },
+  "doc_252_可持续发展绿色科技环保创新.txt": {
+    "hash": "41610326f1f487491a549fb2fe641a81",
+    "last_modified": "2025-12-15T20:56:38.492342",
+    "status": "new"
+  },
+  "doc_232_新闻学技术发展与数字媒体应用.txt": {
+    "hash": "6617dd8540a1cf1e89d22e11e03412b1",
+    "last_modified": "2025-12-15T20:56:38.492603",
+    "status": "new"
+  },
+  "doc_244_统计学技术发展与大数据应用.txt": {
+    "hash": "e8f8d547c39b3bccbc49e2c202e67dab",
+    "last_modified": "2025-12-15T20:56:38.492740",
+    "status": "new"
+  },
+  "doc_326_量子材料研发.txt": {
+    "hash": "8e60c73d2c8f7966f332b5581aa76909",
+    "last_modified": "2025-12-15T20:56:38.493026",
+    "status": "new"
+  },
+  "doc_65_西方古典音乐和声体系的发展历程与核心理论剖析.txt": {
+    "hash": "fb03755b0c30739baff561cfbfa50858",
+    "last_modified": "2025-12-15T20:56:38.493170",
+    "status": "new"
+  },
+  "doc_467_空间技术与卫星应用.txt": {
+    "hash": "a255b4426b0094ec8c762fd001c2af24",
+    "last_modified": "2025-12-15T20:56:38.493462",
+    "status": "new"
+  },
+  "doc_137_哲学美学艺术哲学研究.txt": {
+    "hash": "d2550aacafb0942fa0e015c20f79c3e8",
+    "last_modified": "2025-12-15T20:56:38.493627",
+    "status": "new"
+  },
+  "doc_310_氢能制备技术发展现状.txt": {
+    "hash": "2d39136ba9f3fd1f94bd7e707acbfcbd",
+    "last_modified": "2025-12-15T20:56:38.493920",
+    "status": "new"
+  },
+  "doc_356_optical_tweezers.txt": {
+    "hash": "7e11042b7ba9c571f17930216cd252fe",
+    "last_modified": "2025-12-15T20:56:38.494049",
+    "status": "new"
+  },
+  "doc_419_metamaterials_cloaking_invisibility.txt": {
+    "hash": "77c779b8ff6b7d24177a7329a60d784a",
+    "last_modified": "2025-12-15T20:56:38.494186",
+    "status": "new"
+  },
+  "doc_272_电动汽车电池技术发展.txt": {
+    "hash": "60758989e9e51a8056369e1f52b0ab38",
+    "last_modified": "2025-12-15T20:56:38.494455",
+    "status": "new"
+  },
+  "doc_270_无人机技术发展新趋势.txt": {
+    "hash": "6d67409bf0c56a4b7125049958cae8b8",
+    "last_modified": "2025-12-15T20:56:38.494593",
+    "status": "new"
+  },
+  "doc_156_农业科学精准农业技术.txt": {
+    "hash": "35adbcccee5303bb96c3e47d0ede18ca",
+    "last_modified": "2025-12-15T20:56:38.494733",
+    "status": "new"
+  },
+  "doc_396_organic_field_effect_transistors.txt": {
+    "hash": "79d637ac8ba7fd9c7825447081757c51",
+    "last_modified": "2025-12-15T20:56:38.494864",
+    "status": "new"
+  },
+  "doc_100_现代生物技术合成生物学发展前沿与应用前景.txt": {
+    "hash": "2c66a9175a829b4999196276f9149036",
+    "last_modified": "2025-12-15T20:56:38.495136",
+    "status": "new"
+  },
+  "doc_92_现代地质学地震预警与减灾技术发展应用.txt": {
+    "hash": "71ce5c5ea676d4b74047ec3346cf201a",
+    "last_modified": "2025-12-15T20:56:38.495532",
+    "status": "new"
+  },
+  "doc_296_虚拟现实增强现实技术.txt": {
+    "hash": "82c04361e902f33f8970e57379f11bb3",
+    "last_modified": "2025-12-15T20:56:38.495711",
+    "status": "new"
+  },
+  "doc_70_人类基因组计划的历史意义与技术伦理反思.txt": {
+    "hash": "7b1ce9b008b622c57509f8a2e477f2e3",
+    "last_modified": "2025-12-15T20:56:38.495877",
+    "status": "new"
+  },
+  "doc_404_electrowetting_on_dielectric.txt": {
+    "hash": "42124cce93dad47d6a2d65739ac7dc5a",
+    "last_modified": "2025-12-15T20:56:38.496026",
+    "status": "new"
+  },
+  "doc_118_中国古代建筑风格特色古建筑.txt": {
+    "hash": "26dc81edd7c2025716674689f5281fd1",
+    "last_modified": "2025-12-15T20:56:38.496165",
+    "status": "new"
+  },
+  "doc_166_计算机科学研究进展人工智能.txt": {
+    "hash": "850f5336f9fbc136f4f5abaff0adcb69",
+    "last_modified": "2025-12-15T20:56:38.496317",
+    "status": "new"
+  },
+  "doc_302_仿生机器人技术应用.txt": {
+    "hash": "3d13d86280cd8c28a5d49807dd75ef29",
+    "last_modified": "2025-12-15T20:56:38.496507",
+    "status": "new"
+  },
+  "doc_179_能源科学研究进展新能源技术.txt": {
+    "hash": "0000eb5e257134f1d17eca9c60149697",
+    "last_modified": "2025-12-15T20:56:38.496647",
+    "status": "new"
+  },
+  "doc_149_材料科学纳米技术.txt": {
+    "hash": "cfd8b0b0ac6bec4fcb049ab7039e3a77",
+    "last_modified": "2025-12-15T20:56:38.496919",
+    "status": "new"
+  },
+  "doc_336_plasma_photonics.txt": {
+    "hash": "dad30fcbdd59d00b160f685ccbf1c78b",
+    "last_modified": "2025-12-15T20:56:38.497049",
+    "status": "new"
+  },
+  "doc_493_智能家居物联网技术.txt": {
+    "hash": "31ba9be3cffdadc224f4795d6620c2a5",
+    "last_modified": "2025-12-15T20:56:38.497184",
+    "status": "new"
+  },
+  "doc_202_环境工程技术发展与污染治理技术.txt": {
+    "hash": "7797348924a8cc819bd59e61b3b56ad4",
+    "last_modified": "2025-12-15T20:56:38.497444",
+    "status": "new"
+  },
+  "doc_231_体育学技术发展与运动科学应用.txt": {
+    "hash": "74fc74f41d70333322db813d87ef31d2",
+    "last_modified": "2025-12-15T20:56:38.497576",
+    "status": "new"
+  },
+  "doc_130_生物学进化论生态学保护生物学.txt": {
+    "hash": "0ac88bfe010feb181da2eb08b633f1f4",
+    "last_modified": "2025-12-15T20:56:38.497715",
+    "status": "new"
+  },
+  "doc_128_古代中国文学唐诗宋词元曲发展.txt": {
+    "hash": "a10050ecca12f66e335fb4ce0ab45b75",
+    "last_modified": "2025-12-15T20:56:38.497852",
+    "status": "new"
+  },
+  "doc_405_quantum_cascade_detectors.txt": {
+    "hash": "c5f8242c648854a74b65f0dda3aa1082",
+    "last_modified": "2025-12-15T20:56:38.497979",
+    "status": "new"
+  },
+  "doc_361_piezoelectric_sensors.txt": {
+    "hash": "98fabac29f414c0d0896681a77f1bc6d",
+    "last_modified": "2025-12-15T20:56:38.498105",
+    "status": "new"
+  },
+  "doc_129_现代数学理论概率论统计学.txt": {
+    "hash": "51a7e9bb4c3d9822bbbd651bde05d414",
+    "last_modified": "2025-12-15T20:56:38.498240",
+    "status": "new"
+  },
+  "doc_304_纳米材料最新研究成果.txt": {
+    "hash": "e6f83f936962a03c787cd15bfb19498a",
+    "last_modified": "2025-12-15T20:56:38.498391",
+    "status": "new"
+  },
+  "doc_85_现代建筑材料科学与可持续发展战略.txt": {
+    "hash": "4082ec9cc23c6c6a1863767772cad8e7",
+    "last_modified": "2025-12-15T20:56:38.498522",
+    "status": "new"
+  },
+  "doc_299_人工智能芯片NPU技术发展.txt": {
+    "hash": "ba2d02dea8deb600f1c3c2161789f76a",
+    "last_modified": "2025-12-15T20:56:38.498801",
+    "status": "new"
+  },
+  "doc_424_carbon_capture_utilization_storage.txt": {
+    "hash": "6183fd960d0b1bee813e8fb469cb0670",
+    "last_modified": "2025-12-15T20:56:38.498940",
+    "status": "new"
+  },
+  "doc_60_唐宋诗词艺术风格演变与历史背景分析.txt": {
+    "hash": "85f2e14c46d68258f308c5422b71ee56",
+    "last_modified": "2025-12-15T20:56:38.499077",
+    "status": "new"
+  },
+  "doc_200_食品科学技术发展与食品安全保障.txt": {
+    "hash": "c75205b2725ed00ef5b18096de63d5fd",
+    "last_modified": "2025-12-15T20:56:38.499207",
+    "status": "new"
+  },
+  "doc_144_现代地质学岩石学矿物学研究.txt": {
+    "hash": "aae7f557fab38df201e6948636d649ba",
+    "last_modified": "2025-12-15T20:56:38.499352",
+    "status": "new"
+  },
+  "doc_430_biotechnology_gene_therapy_regenerative.txt": {
+    "hash": "3d873c42778308a21df369226036163e",
+    "last_modified": "2025-12-15T20:56:38.499617",
+    "status": "new"
+  },
+  "doc_481_材料科学技术.txt": {
+    "hash": "cbdf3961d203b2b19d1bde86fd7c83f4",
+    "last_modified": "2025-12-15T20:56:38.499763",
+    "status": "new"
+  },
+  "doc_64_全球气候变化下的生态系统适应性管理策略研究.txt": {
+    "hash": "d61508d4784a69d287b85414f5f01b15",
+    "last_modified": "2025-12-15T20:56:38.499895",
+    "status": "new"
+  },
+  "doc_277_智能交通系统技术发展.txt": {
+    "hash": "d69c454f90c44ccc7ecd6c11c919c6ed",
+    "last_modified": "2025-12-15T20:56:38.500030",
+    "status": "new"
+  },
+  "doc_163_化学研究进展有机化学.txt": {
+    "hash": "508d892e6201973beb6f5ba7bd32e908",
+    "last_modified": "2025-12-15T20:56:38.500284",
+    "status": "new"
+  },
+  "doc_457_生物计算.txt": {
+    "hash": "d90e475ecab32839732cfa83ca246834",
+    "last_modified": "2025-12-15T20:56:38.500417",
+    "status": "new"
+  },
+  "doc_76_古罗马帝国兴衰历史时间线解析.txt": {
+    "hash": "0dbdbf7776c1b8268cb51a5636588fe0",
+    "last_modified": "2025-12-15T20:56:38.500547",
+    "status": "new"
+  },
+  "doc_491_量子传感器技术突破.txt": {
+    "hash": "f83e05bcecaddc6bdb490c264269a5c8",
+    "last_modified": "2025-12-15T20:56:38.500678",
+    "status": "new"
+  },
+  "doc_258_脑机接口技术发展2024最新进展.txt": {
+    "hash": "afd2148f580adad72e3a5d9406db124c",
+    "last_modified": "2025-12-15T20:56:38.500810",
+    "status": "new"
+  },
+  "doc_75_传统中医学针灸疗法原理与科学机制.txt": {
+    "hash": "024fa57600b1f6c4cf6c0df4beaaa3d9",
+    "last_modified": "2025-12-15T20:56:38.500936",
+    "status": "new"
+  },
+  "doc_207_纺织工程技术发展与现代纺织业.txt": {
+    "hash": "147a21c7f72722f57c934239172fec62",
+    "last_modified": "2025-12-15T20:56:38.501063",
+    "status": "new"
+  },
+  "doc_223_社会学技术发展与网络分析应用.txt": {
+    "hash": "7d47fc03831ea415c97f99c3bdca8e8f",
+    "last_modified": "2025-12-15T20:56:38.501191",
+    "status": "new"
+  },
+  "doc_373_electrochemical_sensors.txt": {
+    "hash": "42b65455da9958f4b3e6e960b4babcab",
+    "last_modified": "2025-12-15T20:56:38.501317",
+    "status": "new"
+  },
+  "doc_266_空间量子技术发展前景.txt": {
+    "hash": "3e445e87c6aad401b054e4059c07aefb",
+    "last_modified": "2025-12-15T20:56:38.501449",
+    "status": "new"
+  },
+  "doc_59_运动员体能训练中的恢复策略.txt": {
+    "hash": "b0102d89741e24b4e527a25ac65e038d",
+    "last_modified": "2025-12-15T20:56:38.501576",
+    "status": "new"
+  },
+  "doc_97_世界历史古代埃及文明考古最新发现与文明解读.txt": {
+    "hash": "3f5d5f903ee9904c838063caa5b89204",
+    "last_modified": "2025-12-15T20:56:38.501706",
+    "status": "new"
+  },
+  "doc_340_photonic_crystal_fibers.txt": {
+    "hash": "2e70f776dca469695982e59c5494d4f5",
+    "last_modified": "2025-12-15T20:56:38.501831",
+    "status": "new"
+  },
+  "doc_379_graphene_field_effect_transistors.txt": {
+    "hash": "17d2d66c7c4b600f20cebb6b958312ef",
+    "last_modified": "2025-12-15T20:56:38.501956",
+    "status": "new"
+  },
+  "doc_73_量子计算真实应用案例与最新进展.txt": {
+    "hash": "2702cea7ed4a0800c03ae73e8b1f2efc",
+    "last_modified": "2025-12-15T20:56:38.502083",
+    "status": "new"
+  },
+  "doc_321_智能纺织技术进展.txt": {
+    "hash": "2005b1d9a1996cf7ad35129ce1b4b226",
+    "last_modified": "2025-12-15T20:56:38.502215",
+    "status": "new"
+  },
+  "doc_273_5G6G通信技术演进趋势.txt": {
+    "hash": "02069bb3aed35679c52409f604885a3c",
+    "last_modified": "2025-12-15T20:56:38.502347",
+    "status": "new"
+  },
+  "doc_98_现代教育技术人工智能教育应用创新发展.txt": {
+    "hash": "4cb66a49e0fd140996baca16105b63c0",
+    "last_modified": "2025-12-15T20:56:38.502475",
+    "status": "new"
+  },
+  "doc_325_柔性显示技术.txt": {
+    "hash": "ecf8ed218867e97d0d9c48454cf67d89",
+    "last_modified": "2025-12-15T20:56:38.502606",
+    "status": "new"
+  },
+  "doc_175_新闻传播学研究进展数字媒体.txt": {
+    "hash": "07583ab31218a796863e8a8510b92cff",
+    "last_modified": "2025-12-15T20:56:38.502740",
+    "status": "new"
+  },
+  "doc_79_中国传统戏曲艺术种类与特色解析.txt": {
+    "hash": "629cc4e2eb1146ac1b0be9c5e7951f16",
+    "last_modified": "2025-12-15T20:56:38.502870",
+    "status": "new"
+  },
+  "doc_131_物理学量子力学粒子物理.txt": {
+    "hash": "8518a30d45e09e7b17d47a8df3befc77",
+    "last_modified": "2025-12-15T20:56:38.503004",
+    "status": "new"
+  },
+  "doc_307_空气净化技术最新发展.txt": {
+    "hash": "aee79c6be7fa0ae473c5608c830bad82",
+    "last_modified": "2025-12-15T20:56:38.503136",
+    "status": "new"
+  },
+  "doc_159_考古学研究发现文物考古.txt": {
+    "hash": "c22402f4328e6abb1e0f0f27b3881a77",
+    "last_modified": "2025-12-15T20:56:38.503269",
+    "status": "new"
+  },
+  "doc_243_民俗学技术发展与数字文化应用.txt": {
+    "hash": "cf3b94c361e88e289f13e437c29e9b5b",
+    "last_modified": "2025-12-15T20:56:38.503397",
+    "status": "new"
+  },
+  "doc_63_建构主义学习理论在教育实践中的应用与反思.txt": {
+    "hash": "866ac700715f4684bd9b7d08fcc55d83",
+    "last_modified": "2025-12-15T20:56:38.503783",
+    "status": "new"
+  },
+  "doc_366_supercapacitors.txt": {
+    "hash": "e07e2f4c0aa9666567322c49f64cc154",
+    "last_modified": "2025-12-15T20:56:38.503909",
+    "status": "new"
+  },
+  "doc_135_现代伦理学道德哲学研究.txt": {
+    "hash": "9117d68be98c485314d0a45440bb57f8",
+    "last_modified": "2025-12-15T20:56:38.504043",
+    "status": "new"
+  },
+  "doc_237_宗教学技术发展与数字宗教应用.txt": {
+    "hash": "579b6ad792edddc5e5af7c8b74945abb",
+    "last_modified": "2025-12-15T20:56:38.504171",
+    "status": "new"
+  },
+  "doc_256_数字艺术虚拟现实AR VR发展.txt": {
+    "hash": "aa910f02a416711e32fdd0d96c6bbe0f",
+    "last_modified": "2025-12-15T20:56:38.504300",
+    "status": "new"
+  },
+  "doc_281_碳捕获与封存技术进展.txt": {
+    "hash": "b48acfba4eb17dd6a981a2cb5c96c457",
+    "last_modified": "2025-12-15T20:56:38.504433",
+    "status": "new"
+  },
+  "doc_107_现代物理学粒子物理学最新发现与理论突破.txt": {
+    "hash": "a219ef551f64418cbed8d266395f5849",
+    "last_modified": "2025-12-15T20:56:38.504563",
+    "status": "new"
+  },
+  "doc_381_perovskite_light_emitting_diodes.txt": {
+    "hash": "287665ead0ed1c0150a5ea5b9639825d",
+    "last_modified": "2025-12-15T20:56:38.504689",
+    "status": "new"
+  },
+  "doc_197_水资源管理可持续发展与环境治理.txt": {
+    "hash": "5d780c588ffd72026f88f5c2f4b9181a",
+    "last_modified": "2025-12-15T20:56:38.504835",
+    "status": "new"
+  },
+  "doc_333_quantum_key_distribution.txt": {
+    "hash": "873b66e8e168fcd52dd7bf293bdcc785",
+    "last_modified": "2025-12-15T20:56:38.504961",
+    "status": "new"
+  },
+  "doc_86_世界古代文明玛雅文化考古最新发现与文明解读.txt": {
+    "hash": "be4d9b5725d22130b65fcd2d91497fa1",
+    "last_modified": "2025-12-15T20:56:38.505090",
+    "status": "new"
+  },
+  "doc_89_世界音乐史古典音乐发展脉络与艺术价值.txt": {
+    "hash": "148145990426989fda6fe4d0d7ec563a",
+    "last_modified": "2025-12-15T20:56:38.505348",
+    "status": "new"
+  },
+  "doc_185_土木工程研究进展建筑工程.txt": {
+    "hash": "3ca8f6c6aea71b939520f4212429f040",
+    "last_modified": "2025-12-15T20:56:38.505480",
+    "status": "new"
+  },
+  "doc_147_现代考古学文化遗产研究.txt": {
+    "hash": "10a255d4fbc84213b8bd6582baa5d1d8",
+    "last_modified": "2025-12-15T20:56:38.505615",
+    "status": "new"
+  },
+  "doc_110_现代地理科学遥感技术应用发展与前景展望.txt": {
+    "hash": "7714f30d1967cab4713ac03fef2e380f",
+    "last_modified": "2025-12-15T20:56:38.505747",
+    "status": "new"
+  },
+  "doc_427_additive_manufacturing_3D_printing.txt": {
+    "hash": "1f320e52877792e0657bc82738c93af8",
+    "last_modified": "2025-12-15T20:56:38.505881",
+    "status": "new"
+  },
+  "doc_68_价值投资的理论框架、核心方法与实战应用解析.txt": {
+    "hash": "87f217f262f527b55a411f5e91e429fb",
+    "last_modified": "2025-12-15T20:56:38.506015",
+    "status": "new"
+  },
+  "doc_313_生物传感器技术发展.txt": {
+    "hash": "c93872dcdfe93da1631911730fa51ef9",
+    "last_modified": "2025-12-15T20:56:38.506147",
+    "status": "new"
+  },
+  "doc_315_激光通信技术突破.txt": {
+    "hash": "7d153bab0d719ecd4def520c04879524",
+    "last_modified": "2025-12-15T20:56:38.506308",
+    "status": "new"
+  },
+  "doc_450_sustainable_technology_green_technology.txt": {
+    "hash": "0b40b5bcab7f49ce3f29d830f49cfdae",
+    "last_modified": "2025-12-15T20:56:38.506458",
+    "status": "new"
+  },
+  "doc_160_数学研究进展代数几何.txt": {
+    "hash": "6e24109cc25d458a3554c2af6a101f69",
+    "last_modified": "2025-12-15T20:56:38.506589",
+    "status": "new"
+  },
+  "doc_198_航空航天工程技术发展与飞行器设计.txt": {
+    "hash": "c974e83048525ed356e410a0f5ef9619",
+    "last_modified": "2025-12-15T20:56:38.506977",
+    "status": "new"
+  },
+  "doc_368_photonic_integrated_circuits.txt": {
+    "hash": "03a60284d69784c7b31b3ebba701a512",
+    "last_modified": "2025-12-15T20:56:38.507106",
+    "status": "new"
+  },
+  "doc_440_cloud_computing_edge_computing_distributed.txt": {
+    "hash": "3548e14b977872b098cf18d326e421ae",
+    "last_modified": "2025-12-15T20:56:38.507249",
+    "status": "new"
+  },
+  "doc_155_海洋科学深海探索.txt": {
+    "hash": "a7a79f8049ae2a3277a5593442871f92",
+    "last_modified": "2025-12-15T20:56:38.507381",
+    "status": "new"
+  },
+  "doc_151_认知科学意识研究.txt": {
+    "hash": "60b596616ddb7a71137949ab436004cf",
+    "last_modified": "2025-12-15T20:56:38.507511",
+    "status": "new"
+  },
+  "doc_383_resistive_random_access_memory.txt": {
+    "hash": "91878ce3551ac5b292446960e81ef6ac",
+    "last_modified": "2025-12-15T20:56:38.507636",
+    "status": "new"
+  },
+  "doc_67_生态农业的实践模式、科学原理与发展路径探讨.txt": {
+    "hash": "6c4a9844f9ae75bb0911b200c8eed808",
+    "last_modified": "2025-12-15T20:56:38.507770",
+    "status": "new"
+  },
+  "doc_458_可控核聚变技术.txt": {
+    "hash": "d86098372d14a5d593c22afb0a012c0b",
+    "last_modified": "2025-12-15T20:56:38.507905",
+    "status": "new"
+  },
+  "doc_283_分子机器技术前沿突破.txt": {
+    "hash": "e5f3408155aac74bbd4e57de714f565c",
+    "last_modified": "2025-12-15T20:56:38.508039",
+    "status": "new"
+  },
+  "doc_154_航空航天工程太空探索技术.txt": {
+    "hash": "8b95c3343bac423c1da3edeebd6373a6",
+    "last_modified": "2025-12-15T20:56:38.508169",
+    "status": "new"
+  },
+  "doc_190_矿业工程技术发展与应用.txt": {
+    "hash": "b973f10baf4d33c87280feccefe43264",
+    "last_modified": "2025-12-15T20:56:38.508293",
+    "status": "new"
+  },
+  "doc_152_环境科学气候变化研究.txt": {
+    "hash": "3e49f3c8986d66ecf26890b9f858e923",
+    "last_modified": "2025-12-15T20:56:38.508550",
+    "status": "new"
+  },
+  "doc_468_海洋工程技术.txt": {
+    "hash": "c96fd79532058d98a14e08eabb08acc6",
+    "last_modified": "2025-12-15T20:56:38.508689",
+    "status": "new"
+  },
+  "doc_345_terahertz_spectroscopy.txt": {
+    "hash": "dd4df35fb007e6f0798f6bc11fc5a117",
+    "last_modified": "2025-12-15T20:56:38.508815",
+    "status": "new"
+  },
+  "doc_199_电子工程技术发展与集成电路应用.txt": {
+    "hash": "c1bfad89f428c2702ec18b1fe034f0ff",
+    "last_modified": "2025-12-15T20:56:38.508942",
+    "status": "new"
+  },
+  "doc_399_bulk_acoustic_wave_resonators.txt": {
+    "hash": "084130d4c1f433fc0334e115c8136479",
+    "last_modified": "2025-12-15T20:56:38.509064",
+    "status": "new"
+  },
+  "doc_416_topological_insulators.txt": {
+    "hash": "2c9aef720a3f29fc45b46e02cafa5706",
+    "last_modified": "2025-12-15T20:56:38.509195",
+    "status": "new"
+  },
+  "doc_267_智能制造技术发展工业4.0.txt": {
+    "hash": "6078ee0e7dade60aa35e48f084182946",
+    "last_modified": "2025-12-15T20:56:38.509329",
+    "status": "new"
+  },
+  "doc_78_欧洲文艺复兴时期文学特征与发展历程.txt": {
+    "hash": "b9cd7dd6ebae437064c162f497821c51",
+    "last_modified": "2025-12-15T20:56:38.509457",
+    "status": "new"
+  },
+  "doc_316_生物降解材料技术.txt": {
+    "hash": "25f87deebac07abae7637f8b930ddea3",
+    "last_modified": "2025-12-15T20:56:38.509588",
+    "status": "new"
+  },
+  "doc_486_新型电池技术锂电池发展2024.txt": {
+    "hash": "7628e057d7f9f1109b92439c9dad2137",
+    "last_modified": "2025-12-15T20:56:38.509715",
+    "status": "new"
+  },
+  "doc_120_现代心理学认知行为疗法.txt": {
+    "hash": "67554f3785ad28271b5021958a0c3ae6",
+    "last_modified": "2025-12-15T20:56:38.509848",
+    "status": "new"
+  },
+  "doc_103_现代哲学认识论研究最新进展与理论创新.txt": {
+    "hash": "6b7effe2a0bab4232a19ccd627adf618",
+    "last_modified": "2025-12-15T20:56:38.509979",
+    "status": "new"
+  },
+  "doc_351_fiber_optic_gyroscopes.txt": {
+    "hash": "a5b8161661df62721f8345a0572938a6",
+    "last_modified": "2025-12-15T20:56:38.510104",
+    "status": "new"
+  },
+  "doc_446_cognitive_computing_brain_computer_interface.txt": {
+    "hash": "2d496bf2d84225d80835b623fe476021",
+    "last_modified": "2025-12-15T20:56:38.510247",
+    "status": "new"
+  },
+  "doc_229_音乐学技术发展与数字音乐应用.txt": {
+    "hash": "b647ef8262f49101351b6f2687212e9b",
+    "last_modified": "2025-12-15T20:56:38.510376",
+    "status": "new"
+  },
+  "doc_180_食品科学研究进展食品安全.txt": {
+    "hash": "afb4909ce51f87dd20de63511e3196b0",
+    "last_modified": "2025-12-15T20:56:38.510513",
+    "status": "new"
+  },
+  "doc_447_advanced_manufacturing_materials_science.txt": {
+    "hash": "c7bbf8ba01a981571083c34601be1207",
+    "last_modified": "2025-12-15T20:56:38.510659",
+    "status": "new"
+  },
+  "doc_327_人工智能芯片技术.txt": {
+    "hash": "08265a2af914ca4c185ff3882e14db24",
+    "last_modified": "2025-12-15T20:56:38.510791",
+    "status": "new"
+  },
+  "doc_95_现代医学免疫学研究最新进展与临床应用.txt": {
+    "hash": "2d33d56d99b849609163770aac3d1b63",
+    "last_modified": "2025-12-15T20:56:38.510922",
+    "status": "new"
+  },
+  "doc_335_organic_light_emitting_diodes.txt": {
+    "hash": "2273ca2700a10b599624e55009544d66",
+    "last_modified": "2025-12-15T20:56:38.511048",
+    "status": "new"
+  },
+  "doc_355_thin_film_solar_cells.txt": {
+    "hash": "3dff99f7780e820d34d77d4c31421808",
+    "last_modified": "2025-12-15T20:56:38.511174",
+    "status": "new"
+  },
+  "doc_254_量子计算最新进展2024.txt": {
+    "hash": "7252a73a376371286740bbfce95694b7",
+    "last_modified": "2025-12-15T20:56:38.511304",
+    "status": "new"
+  },
+  "doc_312_仿生机器人技术进展.txt": {
+    "hash": "9b84f7c157388e6518b1701b8509e315",
+    "last_modified": "2025-12-15T20:56:38.511436",
+    "status": "new"
+  },
+  "doc_459_新型复合材料.txt": {
+    "hash": "b554c9c20fec7a63eadf562eef867683",
+    "last_modified": "2025-12-15T20:56:38.511576",
+    "status": "new"
+  },
+  "doc_105_现代生物学神经科学研究前沿突破与技术革新.txt": {
+    "hash": "ed9b25cb0c0d4213c351da84e3ad9f35",
+    "last_modified": "2025-12-15T20:56:38.511778",
+    "status": "new"
+  },
+  "doc_204_建筑工程绿色建筑与智能建筑技术.txt": {
+    "hash": "4f349a09ec99539a4a41c6862f6c4d59",
+    "last_modified": "2025-12-15T20:56:38.511988",
+    "status": "new"
+  },
+  "doc_497_人工智能芯片技术突破.txt": {
+    "hash": "d1b60a53cab6a9b578651c3272f640fe",
+    "last_modified": "2025-12-15T20:56:38.512148",
+    "status": "new"
+  },
+  "doc_205_交通运输工程智能交通与交通规划.txt": {
+    "hash": "1abed5dfcd0c5c9e51c088bb16706cf5",
+    "last_modified": "2025-12-15T20:56:38.512275",
+    "status": "new"
+  },
+  "doc_371_carbon_nanotube_transistors.txt": {
+    "hash": "e43684385707c48a7c49b45d236375b7",
+    "last_modified": "2025-12-15T20:56:38.512532",
+    "status": "new"
+  },
+  "doc_94_世界哲学史中国哲学发展脉络与思想传承.txt": {
+    "hash": "13456204d7678a055435ae2b336bbd16",
+    "last_modified": "2025-12-15T20:56:38.512664",
+    "status": "new"
+  },
+  "doc_238_图书馆学技术发展与数字图书馆应用.txt": {
+    "hash": "f2531d1405f5b82361a9d919376ffc97",
+    "last_modified": "2025-12-15T20:56:38.512919",
+    "status": "new"
+  },
+  "doc_263_核聚变能源发展现状2024.txt": {
+    "hash": "5d055894a5f01a514805ab5cddb4bacd",
+    "last_modified": "2025-12-15T20:56:38.513055",
+    "status": "new"
+  },
+  "doc_452_quantum_computing_quantum_algorithms.txt": {
+    "hash": "18322b0355c3527c0f0936a739acf76b",
+    "last_modified": "2025-12-15T20:56:38.513196",
+    "status": "new"
+  },
+  "doc_377_flexible_piezoelectric_energy.txt": {
+    "hash": "a41f0d1029826b61d39ce0de5ee9d9d9",
+    "last_modified": "2025-12-15T20:56:38.513323",
+    "status": "new"
+  },
+  "doc_115_古代中国书法艺术发展史.txt": {
+    "hash": "911d5217bff0ef0ca7acb182e615aa29",
+    "last_modified": "2025-12-15T20:56:38.513456",
+    "status": "new"
+  },
+  "doc_196_兽医学动物健康与公共卫生保障.txt": {
+    "hash": "9090e8717187dd866d1a849c885a692f",
+    "last_modified": "2025-12-15T20:56:38.513586",
+    "status": "new"
+  },
+  "doc_206_石油工程油气开发与炼化技术.txt": {
+    "hash": "9793f90309ce9247ecadc313c4b4974b",
+    "last_modified": "2025-12-15T20:56:38.513713",
+    "status": "new"
+  },
+  "doc_262_量子通信技术进展最新突破.txt": {
+    "hash": "c9df266b59ba5de325197b71d8a7acbb",
+    "last_modified": "2025-12-15T20:56:38.513843",
+    "status": "new"
+  },
+  "doc_228_地理学技术发展与地理信息系统应用.txt": {
+    "hash": "6a6d6fc503ab33aa9ffb78a47c2f9a21",
+    "last_modified": "2025-12-15T20:56:38.513971",
+    "status": "new"
+  },
+  "doc_140_现代社会学理论社会分层研究.txt": {
+    "hash": "50236298f9e263f77f68366b4f3148e6",
+    "last_modified": "2025-12-15T20:56:38.514110",
+    "status": "new"
+  },
+  "doc_222_经济学技术发展与数字金融科技应用.txt": {
+    "hash": "f7fa514e9ec59a4bdb69d335b2624c6a",
+    "last_modified": "2025-12-15T20:56:38.514239",
+    "status": "new"
+  },
+  "doc_219_心理学技术发展与认知科学应用.txt": {
+    "hash": "d5aa81e5674626417e3ce266f1ab2304",
+    "last_modified": "2025-12-15T20:56:38.514368",
+    "status": "new"
+  },
+  "doc_239_博物馆学技术发展与数字博物馆应用.txt": {
+    "hash": "c26f3f7582780f1444669485ab6f1b7e",
+    "last_modified": "2025-12-15T20:56:38.514500",
+    "status": "new"
+  },
+  "doc_178_纺织科学研究进展新材料.txt": {
+    "hash": "31ebb3f3facad0f311c2ffa0807eacc3",
+    "last_modified": "2025-12-15T20:56:38.514637",
+    "status": "new"
+  },
+  "doc_425_synthetic_biology_CRISPR.txt": {
+    "hash": "e98c2a4c95197a0f209d937433b3a558",
+    "last_modified": "2025-12-15T20:56:38.514780",
+    "status": "new"
+  },
+  "doc_388_transparent_conductive_oxides.txt": {
+    "hash": "3d0696d7feb85d78beb228ee1a166d8f",
+    "last_modified": "2025-12-15T20:56:38.514906",
+    "status": "new"
+  },
+  "doc_437_smart_cities_IoT_urban_technology.txt": {
+    "hash": "4c8fabeda28abd73e0ec7f04bb0d4eca",
+    "last_modified": "2025-12-15T20:56:38.515047",
+    "status": "new"
+  },
+  "doc_139_地理学人文地理学区域研究.txt": {
+    "hash": "d36154048682f889c43b7f7289c6fa6f",
+    "last_modified": "2025-12-15T20:56:38.515315",
+    "status": "new"
+  },
+  "doc_364_magnetic_resonance_imaging.txt": {
+    "hash": "60bc9b279525f41251ac742aea70a737",
+    "last_modified": "2025-12-15T20:56:38.515437",
+    "status": "new"
+  },
+  "doc_392_quantum_dot_solar_cells.txt": {
+    "hash": "85f754f2771f2062be77846a2a1b8c15",
+    "last_modified": "2025-12-15T20:56:38.515561",
+    "status": "new"
+  },
+  "doc_141_现代政治学民主理论研究.txt": {
+    "hash": "ebdc821ee33e43fc9c6175893a8ef9e7",
+    "last_modified": "2025-12-15T20:56:38.515712",
+    "status": "new"
+  },
+  "doc_352_magnetic_nanoparticles.txt": {
+    "hash": "ca65dea6519cf5eeba80ca8567f7a27c",
+    "last_modified": "2025-12-15T20:56:38.515836",
+    "status": "new"
+  },
+  "doc_349_quantum_cascade_lasers.txt": {
+    "hash": "7df57d203a6c3c67344e5b5b19440aa6",
+    "last_modified": "2025-12-15T20:56:38.515961",
+    "status": "new"
+  },
+  "doc_106_中国古代书法艺术发展史与文化传承价值.txt": {
+    "hash": "28994dc4cd961cef3307e439ee500326",
+    "last_modified": "2025-12-15T20:56:38.516220",
+    "status": "new"
+  },
+  "doc_116_计算机网络信息安全技术.txt": {
+    "hash": "5d17d4039cd9de9ec463aefcafc84377",
+    "last_modified": "2025-12-15T20:56:38.516351",
+    "status": "new"
+  },
+  "doc_318_碳纳米管技术应用突破.txt": {
+    "hash": "ccbafd4ba19cde958e3da1684adad455",
+    "last_modified": "2025-12-15T20:56:38.516484",
+    "status": "new"
+  },
+  "doc_347_2d_materials_beyond_graphene.txt": {
+    "hash": "b592359fb4d6d930d4c8778b9f6d3b59",
+    "last_modified": "2025-12-15T20:56:38.516610",
+    "status": "new"
+  },
+  "doc_122_现代化学分子结构分析.txt": {
+    "hash": "530dc3e0cc972a29a56766a601582882",
+    "last_modified": "2025-12-15T20:56:38.516744",
+    "status": "new"
+  },
+  "doc_412_organic_electrochromic_devices.txt": {
+    "hash": "e95f185acdbe5e774c126493d8133db5",
+    "last_modified": "2025-12-15T20:56:38.516996",
+    "status": "new"
+  },
+  "doc_354_shape_memory_alloys.txt": {
+    "hash": "a01eb14862f09e83620c8d501dda3321",
+    "last_modified": "2025-12-15T20:56:38.517120",
+    "status": "new"
+  },
+  "doc_469_新材料技术.txt": {
+    "hash": "8c220f1a4436bbe484807c3dea12e11c",
+    "last_modified": "2025-12-15T20:56:38.517264",
+    "status": "new"
+  },
+  "doc_210_能源工程技术发展与新能源技术应用.txt": {
+    "hash": "2d5596280c33ecb4e86ba6efe986fa23",
+    "last_modified": "2025-12-15T20:56:38.517391",
+    "status": "new"
+  },
+  "doc_386_perovskite_solar_cells_stability.txt": {
+    "hash": "cd563e1b38fa1fe4cb1611332cbe39dc",
+    "last_modified": "2025-12-15T20:56:38.517516",
+    "status": "new"
+  },
+  "doc_84_中世纪欧洲十字军东征的历史影响与深远意义.txt": {
+    "hash": "03ad2aa64997b58ef4ddd177c5770785",
+    "last_modified": "2025-12-15T20:56:38.517645",
+    "status": "new"
+  },
+  "doc_422_liquid_metals_shape_memory.txt": {
+    "hash": "61262f1f4760ecbf7e5eae337483d972",
+    "last_modified": "2025-12-15T20:56:38.517901",
+    "status": "new"
+  },
+  "doc_119_海洋生物学海洋生态研究.txt": {
+    "hash": "95becf39c517d1f6a60a1c04f2eb226b",
+    "last_modified": "2025-12-15T20:56:38.518161",
+    "status": "new"
+  },
+  "doc_339_metamaterial_cloaking.txt": {
+    "hash": "74a462542ce5752b6002bacb9a777552",
+    "last_modified": "2025-12-15T20:56:38.518287",
+    "status": "new"
+  },
+  "doc_324_光纤通信技术突破.txt": {
+    "hash": "dc99bdcf912f130fe3c51c29ec13b2d6",
+    "last_modified": "2025-12-15T20:56:38.518422",
+    "status": "new"
+  },
+  "doc_484_6G通信技术标准研发.txt": {
+    "hash": "ce4212e0695673df5a9c1997a39b0278",
+    "last_modified": "2025-12-15T20:56:38.518551",
+    "status": "new"
+  },
+  "doc_474_电子信息技术.txt": {
+    "hash": "fa0410e74ca3886949665d54a164f4b5",
+    "last_modified": "2025-12-15T20:56:38.518704",
+    "status": "new"
+  },
+  "doc_398_surface_acoustic_wave_devices.txt": {
+    "hash": "1517942ba98c0ac8b6bd1a02ded351a5",
+    "last_modified": "2025-12-15T20:56:38.518829",
+    "status": "new"
+  },
+  "doc_414_perovskite_photodetectors.txt": {
+    "hash": "557b4c7db44c4138da8c69d0ac0fe42c",
+    "last_modified": "2025-12-15T20:56:38.518957",
+    "status": "new"
+  },
+  "doc_369_mems_applications.txt": {
+    "hash": "755e5b47e02c45d5606bfb206b49dbf5",
+    "last_modified": "2025-12-15T20:56:38.519083",
+    "status": "new"
+  },
+  "doc_96_现代生物学基因治疗技术最新突破与临床应用.txt": {
+    "hash": "8aa3567aa3c68d4b73e3782d3716d0f7",
+    "last_modified": "2025-12-15T20:56:38.519213",
+    "status": "new"
+  },
+  "doc_499_新型环保材料技术发展.txt": {
+    "hash": "c037b5b2f518fc146485b0a137282e69",
+    "last_modified": "2025-12-15T20:56:38.519344",
+    "status": "new"
+  },
+  "doc_295_边缘计算发展现状2024.txt": {
+    "hash": "ec33a483439c59e412d1f115b9e3c516",
+    "last_modified": "2025-12-15T20:56:38.519490",
+    "status": "new"
+  },
+  "doc_462_生物医学工程.txt": {
+    "hash": "a4a95cf0444700fd7183a568f7e5c3b8",
+    "last_modified": "2025-12-15T20:56:38.519631",
+    "status": "new"
+  },
+  "doc_465_绿色低碳技术.txt": {
+    "hash": "9cb0588817c8df2f8a31bda9c3405d68",
+    "last_modified": "2025-12-15T20:56:38.519774",
+    "status": "new"
+  },
+  "doc_275_生物制药技术最新突破.txt": {
+    "hash": "07f13bda5f5142825f3c41e3baecadae",
+    "last_modified": "2025-12-15T20:56:38.520065",
+    "status": "new"
+  },
+  "doc_88_中国古代文学诗词艺术发展历程与文化传承.txt": {
+    "hash": "99068a44af731b3f89e2027e7ef03508",
+    "last_modified": "2025-12-15T20:56:38.520198",
+    "status": "new"
+  },
+  "doc_257_太空探索火星计划最新进展.txt": {
+    "hash": "08a99daa72cdd8c2c51e4a544216460f",
+    "last_modified": "2025-12-15T20:56:38.520332",
+    "status": "new"
+  },
+  "doc_121_音乐理论作曲技法和声学.txt": {
+    "hash": "b54f787d565bc925869b8deba50c8c7e",
+    "last_modified": "2025-12-15T20:56:38.520465",
+    "status": "new"
+  },
+  "doc_233_舞蹈学技术发展与数字表演应用.txt": {
+    "hash": "b41dee8b3144b3abf8d8edc81ecde949",
+    "last_modified": "2025-12-15T20:56:38.520595",
+    "status": "new"
+  },
+  "doc_460_智能制造技术.txt": {
+    "hash": "d76ced3c26547997311158e45e1da5cd",
+    "last_modified": "2025-12-15T20:56:38.520737",
+    "status": "new"
+  },
+  "doc_408_organic_light_emitting_field_effect_transistors.txt": {
+    "hash": "0940c622143cb8275249ced2577e6ff1",
+    "last_modified": "2025-12-15T20:56:38.520866",
+    "status": "new"
+  },
+  "doc_305_光子计算技术突破.txt": {
+    "hash": "efdd0d40d124b7364653f84ddb24f592",
+    "last_modified": "2025-12-15T20:56:38.521000",
+    "status": "new"
+  },
+  "doc_279_光合作用技术人工合成研究.txt": {
+    "hash": "5361a2ab9864bbd8b019c125956b0e02",
+    "last_modified": "2025-12-15T20:56:38.521136",
+    "status": "new"
+  },
+  "doc_164_物理学研究进展量子力学.txt": {
+    "hash": "5e8f512595d190e1444484bd62170e41",
+    "last_modified": "2025-12-15T20:56:38.521290",
+    "status": "new"
+  },
+  "doc_214_地质工程技术发展与岩土工程应用.txt": {
+    "hash": "ad04158f2d5d1b108cdfc6f117c46ab1",
+    "last_modified": "2025-12-15T20:56:38.521549",
+    "status": "new"
+  },
+  "doc_184_化学工程研究进展材料工程.txt": {
+    "hash": "05040fe9f73bcd0630f824c002ae5290",
+    "last_modified": "2025-12-15T20:56:38.521682",
+    "status": "new"
+  },
+  "doc_432_blockchain_cryptocurrency_decentralized_finance.txt": {
+    "hash": "be686ed7c2f9c5a44fe6f6baf9fb8915",
+    "last_modified": "2025-12-15T20:56:38.521944",
+    "status": "new"
+  },
+  "doc_472_轨道交通技术.txt": {
+    "hash": "385802a31d0ba5d1a8a4cab16d5da105",
+    "last_modified": "2025-12-15T20:56:38.522089",
+    "status": "new"
+  },
+  "doc_145_现代语言学应用语言学研究.txt": {
+    "hash": "ab7753370e543ee33a1600f545775ac2",
+    "last_modified": "2025-12-15T20:56:38.522229",
+    "status": "new"
+  },
+  "doc_112_中国古代文学红楼梦研究新成果与学术发展.txt": {
+    "hash": "9c69415335d227aaf6cc5f3df6e878a4",
+    "last_modified": "2025-12-15T20:56:38.522487",
+    "status": "new"
+  },
+  "doc_69_海洋塑料污染：来源、影响与全球治理策略研究.txt": {
+    "hash": "de2f0fa994de7a8389fbe43c3dc3a7b2",
+    "last_modified": "2025-12-15T20:56:38.522621",
+    "status": "new"
+  },
+  "doc_194_水产科学养殖技术发展与应用.txt": {
+    "hash": "185c92a12726d961471ee3e2e1c3332d",
+    "last_modified": "2025-12-15T20:56:38.522746",
+    "status": "new"
+  },
+  "doc_461_量子通信技术.txt": {
+    "hash": "e897f6ef4e3b112942fff2c87e4b1492",
+    "last_modified": "2025-12-15T20:56:38.522885",
+    "status": "new"
+  },
+  "doc_343_liquid_crystal_display.txt": {
+    "hash": "77ad5c28697ced9a764437cc62c65183",
+    "last_modified": "2025-12-15T20:56:38.523010",
+    "status": "new"
+  },
+  "doc_403_field_emission_displays.txt": {
+    "hash": "8c529303ba34edcef9dd319cf67fb7b1",
+    "last_modified": "2025-12-15T20:56:38.523132",
+    "status": "new"
+  },
+  "doc_250_现代农业精准农业技术发展.txt": {
+    "hash": "af5c059e54fd034f3fcd3cb387fccd3b",
+    "last_modified": "2025-12-15T20:56:38.523261",
+    "status": "new"
+  },
+  "doc_439_cybersecurity_zero_trust_quantum_encryption.txt": {
+    "hash": "225b6bd6e74be03d6cda0f45efd5b7d5",
+    "last_modified": "2025-12-15T20:56:38.523402",
+    "status": "new"
+  },
+  "doc_331_graphene_fibers.txt": {
+    "hash": "1b6324c734eb00a3303c94332181da91",
+    "last_modified": "2025-12-15T20:56:38.523651",
+    "status": "new"
+  },
+  "doc_111_现代医学心血管疾病研究最新进展与临床突破.txt": {
+    "hash": "7cb7eb3209a986b0ea51d7961c4e7d4f",
+    "last_modified": "2025-12-15T20:56:38.523780",
+    "status": "new"
+  },
+  "doc_434_5G_6G_wireless_communication_mobile_networks.txt": {
+    "hash": "542ec941f03b23129cf772eef8b52d71",
+    "last_modified": "2025-12-15T20:56:38.523941",
+    "status": "new"
+  },
+  "doc_55_文艺复兴时期艺术特征解析.txt": {
+    "hash": "666f6d23869d2929652494ac91bf4bd0",
+    "last_modified": "2025-12-15T20:56:38.524068",
+    "status": "new"
+  },
+  "doc_406_organic_thin_film_solar_cells.txt": {
+    "hash": "e185be7aeac5638dad7368f346062dd5",
+    "last_modified": "2025-12-15T20:56:38.524191",
+    "status": "new"
+  },
+  "doc_286_太赫兹技术发展应用.txt": {
+    "hash": "89f90c56064385c26b2c5dd1210d473a",
+    "last_modified": "2025-12-15T20:56:38.524326",
+    "status": "new"
+  },
+  "doc_487_人工智能大语言模型最新进展.txt": {
+    "hash": "f613f68b98ef7101d7ca3da7bc1a912d",
+    "last_modified": "2025-12-15T20:56:38.524456",
+    "status": "new"
+  },
+  "doc_285_仿生材料技术最新进展.txt": {
+    "hash": "71ba444fee13851b317bf489cc2af7d8",
+    "last_modified": "2025-12-15T20:56:38.524588",
+    "status": "new"
+  },
+  "doc_378_organic_field_effect_transistors.txt": {
+    "hash": "d0d39726bc19a692e64789f65a296613",
+    "last_modified": "2025-12-15T20:56:38.524710",
+    "status": "new"
+  },
+  "doc_483_人工智能芯片设计技术.txt": {
+    "hash": "aa3f8e18ba1983c9243d5615fc06d90a",
+    "last_modified": "2025-12-15T20:56:38.524837",
+    "status": "new"
+  },
+  "doc_292_自主导航无人驾驶技术.txt": {
+    "hash": "c219593980d23bb00930dd0af138943c",
+    "last_modified": "2025-12-15T20:56:38.524965",
+    "status": "new"
+  },
+  "doc_314_钙钛矿太阳能电池.txt": {
+    "hash": "0a3fa94126aca4ef490784d70c40de77",
+    "last_modified": "2025-12-15T20:56:38.525094",
+    "status": "new"
+  },
+  "doc_245_逻辑学技术发展与计算逻辑应用.txt": {
+    "hash": "3cf103306ec23d660ff431e6697d2647",
+    "last_modified": "2025-12-15T20:56:38.525220",
+    "status": "new"
+  },
+  "doc_303_柔性电子技术发展现状.txt": {
+    "hash": "555e7da62774215d8d2a9e67281e1a22",
+    "last_modified": "2025-12-15T20:56:38.525348",
+    "status": "new"
+  },
+  "doc_172_艺术学研究进展美学理论.txt": {
+    "hash": "caa8e992e10d554461b6d5d0d754920a",
+    "last_modified": "2025-12-15T20:56:38.525477",
+    "status": "new"
+  },
+  "doc_475_航空航天技术.txt": {
+    "hash": "8850a6ee13cd5b778f2baaf88152304a",
+    "last_modified": "2025-12-15T20:56:38.525621",
+    "status": "new"
+  },
+  "doc_226_教育学技术发展与现代教育技术应用.txt": {
+    "hash": "680b4c8f2d0b4b164360b2d6ead64c87",
+    "last_modified": "2025-12-15T20:56:38.525749",
+    "status": "new"
+  },
+  "doc_162_经济学研究前沿发展经济学.txt": {
+    "hash": "3d8e699b01c1158afd7a193e81739df2",
+    "last_modified": "2025-12-15T20:56:38.525892",
+    "status": "new"
+  },
+  "doc_186_环境工程研究进展水处理技术.txt": {
+    "hash": "4e9bd818b1fa637873fd6c4d72dc6561",
+    "last_modified": "2025-12-15T20:56:38.526071",
+    "status": "new"
+  },
+  "doc_248_深海科学探索海洋研究进展.txt": {
+    "hash": "ee9acb74355262e4e6ef68c7c6733222",
+    "last_modified": "2025-12-15T20:56:38.526255",
+    "status": "new"
+  },
+  "doc_183_建筑学研究进展绿色建筑.txt": {
+    "hash": "3ba5353cf23f8054aee5647495370cd5",
+    "last_modified": "2025-12-15T20:56:38.526448",
+    "status": "new"
+  },
+  "doc_126_现代医学肿瘤学癌症治疗研究.txt": {
+    "hash": "45da3c3762304513c01710f81ba616f5",
+    "last_modified": "2025-12-15T20:56:38.526583",
+    "status": "new"
+  },
+  "doc_90_现代神经科学大脑研究最新进展与技术突破.txt": {
+    "hash": "1ddbacc8858805e847a99fdd28a4996e",
+    "last_modified": "2025-12-15T20:56:38.526713",
+    "status": "new"
+  },
+  "doc_490_智能机器人技术应用前景.txt": {
+    "hash": "36f439552601b26b47411600bb670e10",
+    "last_modified": "2025-12-15T20:56:38.526845",
+    "status": "new"
+  },
+  "doc_253_现代科学技术发展趋势2024-2025.txt": {
+    "hash": "247a37321de1744cc8d959506b93ee3e",
+    "last_modified": "2025-12-15T20:56:38.526976",
+    "status": "new"
+  },
+  "doc_341_graphene_electronics.txt": {
+    "hash": "937d76ec1108641e337c270581076963",
+    "last_modified": "2025-12-15T20:56:38.527109",
+    "status": "new"
+  },
+  "doc_170_社会学研究成果社会发展.txt": {
+    "hash": "af694aa7be77b57c3b8775d97ee800f2",
+    "last_modified": "2025-12-15T20:56:38.527249",
+    "status": "new"
+  },
+  "doc_113_生态系统服务功能.txt": {
+    "hash": "45bd471f379bf66b232ff5e0d73ee7a7",
+    "last_modified": "2025-12-15T20:56:38.527608",
+    "status": "new"
+  },
+  "doc_401_organic_photovoltaic_tandem_cells.txt": {
+    "hash": "541370b80fc9642bfd0a578fae6f08d9",
+    "last_modified": "2025-12-15T20:56:38.527750",
+    "status": "new"
+  },
+  "doc_342_nanoelectromechanical_systems.txt": {
+    "hash": "db7c61cbf8238afa8a0c6e5b62249971",
+    "last_modified": "2025-12-15T20:56:38.527891",
+    "status": "new"
+  },
+  "doc_338_quantum_dots_display.txt": {
+    "hash": "25525cac2fc93a27707e811d47126d28",
+    "last_modified": "2025-12-15T20:56:38.528239",
+    "status": "new"
+  },
+  "doc_445_fusion_energy_nuclear_fusion_clean.txt": {
+    "hash": "7df3ac21c28e5ae4e4af1f7218395cff",
+    "last_modified": "2025-12-15T20:56:38.528387",
+    "status": "new"
+  },
+  "doc_394_complementary_metal_oxide_semiconductor.txt": {
+    "hash": "80206def3f692b4d1fb36451dc00a059",
+    "last_modified": "2025-12-15T20:56:38.528515",
+    "status": "new"
+  },
+  "doc_187_工程技术研究进展机械工程.txt": {
+    "hash": "cfc456469b3f3bcfe602ce0b6c040877",
+    "last_modified": "2025-12-15T20:56:38.528649",
+    "status": "new"
+  },
+  "doc_101_现代计算机科学人工智能深度学习发展历程.txt": {
+    "hash": "fd3408ece9841c848341b648269aa30e",
+    "last_modified": "2025-12-15T20:56:38.528783",
+    "status": "new"
+  },
+  "doc_241_公共关系技术发展与数字传播应用.txt": {
+    "hash": "fa5a34ffdb8946a13198378dbe58afa9",
+    "last_modified": "2025-12-15T20:56:38.528912",
+    "status": "new"
+  },
+  "doc_431_nanotechnology_nanomaterials_drug_delivery.txt": {
+    "hash": "5f9d7241de38a11692ef978986bf4e97",
+    "last_modified": "2025-12-15T20:56:38.529046",
+    "status": "new"
+  },
+  "doc_415_bioinspired_materials.txt": {
+    "hash": "dfa89ccaf3d7d9a25dadb03a0bf4b6a6",
+    "last_modified": "2025-12-15T20:56:38.529176",
+    "status": "new"
+  },
+  "doc_57_积极心理学在日常生活中的应用.txt": {
+    "hash": "780bcb697aa54474a241529b227cad8b",
+    "last_modified": "2025-12-15T20:56:38.529303",
+    "status": "new"
+  },
+  "doc_230_美术学技术发展与数字艺术应用.txt": {
+    "hash": "c43c27187b5ae3e1549ac383bd84c018",
+    "last_modified": "2025-12-15T20:56:38.529999",
+    "status": "new"
+  },
+  "doc_224_哲学技术发展与认知哲学应用.txt": {
+    "hash": "264b04d82c8acf4af7a7dc0d63f16113",
+    "last_modified": "2025-12-15T20:56:38.530144",
+    "status": "new"
+  },
+  "doc_169_教育学研究进展教育技术.txt": {
+    "hash": "62d70665906168814381a55125003fa3",
+    "last_modified": "2025-12-15T20:56:38.530291",
+    "status": "new"
+  },
+  "doc_201_材料科学新材料技术与复合材料发展.txt": {
+    "hash": "dd7a311a48c3fe718673d0da4bede4ae",
+    "last_modified": "2025-12-15T20:56:38.530426",
+    "status": "new"
+  },
+  "doc_146_现代统计学计量经济学研究.txt": {
+    "hash": "6ff63e16070caee85af7776afc149f81",
+    "last_modified": "2025-12-15T20:56:38.530570",
+    "status": "new"
+  },
+  "doc_400_organic_light_emitting_electrochemical_cells.txt": {
+    "hash": "40e295aca3134eca8cddbc0051ca10c6",
+    "last_modified": "2025-12-15T20:56:38.530721",
+    "status": "new"
+  },
+  "doc_330_magnetic_refrigeration.txt": {
+    "hash": "c1e474509bd70727476c9f5be15c7055",
+    "last_modified": "2025-12-15T20:56:38.530856",
+    "status": "new"
+  },
+  "doc_297_智能材料形状记忆合金.txt": {
+    "hash": "21666dfae7232f0a1aa3021f69390aae",
+    "last_modified": "2025-12-15T20:56:38.530994",
+    "status": "new"
+  },
+  "doc_287_生物信息学技术发展.txt": {
+    "hash": "21c3892b7c65d34127a4504c0f634992",
+    "last_modified": "2025-12-15T20:56:38.531137",
+    "status": "new"
+  },
+  "doc_127_经济学理论宏观经济学微观经济学.txt": {
+    "hash": "fbca30b57dc63b1c3a21bf3bb6219d0f",
+    "last_modified": "2025-12-15T20:56:38.531273",
+    "status": "new"
+  },
+  "doc_492_生物可降解材料技术.txt": {
+    "hash": "133ca72f85029e75c9859386f17fbd63",
+    "last_modified": "2025-12-15T20:56:38.531531",
+    "status": "new"
+  },
+  "doc_478_核能技术.txt": {
+    "hash": "67312a7f3ad2e8c3a68e67a9253d9841",
+    "last_modified": "2025-12-15T20:56:38.531674",
+    "status": "new"
+  },
+  "doc_176_法学研究进展宪法学.txt": {
+    "hash": "3b19ed0c8b27e0891add745096a4443b",
+    "last_modified": "2025-12-15T20:56:38.531808",
+    "status": "new"
+  },
+  "doc_477_水利技术.txt": {
+    "hash": "55894546c58588f71182ee832f6eff1b",
+    "last_modified": "2025-12-15T20:56:38.532076",
+    "status": "new"
+  },
+  "doc_306_CRISPR基因编辑技术进展.txt": {
+    "hash": "31c4b7b62ee912a254f3ce6898afaab0",
+    "last_modified": "2025-12-15T20:56:38.532210",
+    "status": "new"
+  },
+  "doc_442_precision_agriculture_smart_farming_agriculture_technology.txt": {
+    "hash": "c3f76ec012b4b495d782685debf3f393",
+    "last_modified": "2025-12-15T20:56:38.532356",
+    "status": "new"
+  },
+  "doc_496_区块链技术最新发展2024.txt": {
+    "hash": "957f6616856c1f1b92810c316b386c5e",
+    "last_modified": "2025-12-15T20:56:38.532487",
+    "status": "new"
+  },
+  "doc_125_古希腊哲学史柏拉图亚里士多德.txt": {
+    "hash": "58c78e9e1cfade2df0f7e50e2735a3a9",
+    "last_modified": "2025-12-15T20:56:38.532620",
+    "status": "new"
+  },
+  "doc_132_现代法学理论法律哲学研究.txt": {
+    "hash": "8c0f31115356a8a641dd9b5428a8bc3f",
+    "last_modified": "2025-12-15T20:56:38.532762",
+    "status": "new"
+  },
+  "doc_482_环境技术.txt": {
+    "hash": "87ca4b6aa29e1a6b4e430baf6bd92256",
+    "last_modified": "2025-12-15T20:56:38.532925",
+    "status": "new"
+  },
+  "doc_259_合成生物学技术应用最新研究.txt": {
+    "hash": "1edee9caf10182871ab96b15e0697878",
+    "last_modified": "2025-12-15T20:56:38.533055",
+    "status": "new"
+  },
+  "doc_109_世界音乐史民族音乐学研究发展与学术价值.txt": {
+    "hash": "ec1fdb89f963e5a7721e79b125da3909",
+    "last_modified": "2025-12-15T20:56:38.533313",
+    "status": "new"
+  },
+  "doc_148_植物学研究进展.txt": {
+    "hash": "bb6d8b66f244075fe5289e30b4048a31",
+    "last_modified": "2025-12-15T20:56:38.533442",
+    "status": "new"
+  },
+  "doc_480_生物医药技术.txt": {
+    "hash": "834cfe4b8bb8998cbe5a3345bdb195be",
+    "last_modified": "2025-12-15T20:56:38.533584",
+    "status": "new"
+  },
+  "doc_382_phase_change_memory.txt": {
+    "hash": "cc048682e38b34a06c3f5c7e67039238",
+    "last_modified": "2025-12-15T20:56:38.533708",
+    "status": "new"
+  },
+  "doc_308_太赫兹技术最新进展2024.txt": {
+    "hash": "7a217734f801d92af01942dc5800927e",
+    "last_modified": "2025-12-15T20:56:38.533839",
+    "status": "new"
+  },
+  "doc_451_biotechnology_synthetic_biology_CRISPR.txt": {
+    "hash": "7414d9459282d6ce1ce65378e703470f",
+    "last_modified": "2025-12-15T20:56:38.533983",
+    "status": "new"
+  },
+  "doc_323_生物计算技术.txt": {
+    "hash": "df4064cab7039ce29dffa8b00ce7eff9",
+    "last_modified": "2025-12-15T20:56:38.534114",
+    "status": "new"
+  },
+  "doc_255_人工智能AGI通用人工智能发展.txt": {
+    "hash": "1105a3cc2263f342451d6a3b69871c49",
+    "last_modified": "2025-12-15T20:56:38.534244",
+    "status": "new"
+  },
+  "doc_449_artificial_general_intelligence_AGI.txt": {
+    "hash": "6163589586c8552186c87252ae6d20d0",
+    "last_modified": "2025-12-15T20:56:38.534380",
+    "status": "new"
+  },
+  "doc_138_现代舞蹈艺术舞蹈理论研究.txt": {
+    "hash": "6febab72ef6ff9fb78889c290783f649",
+    "last_modified": "2025-12-15T20:56:38.534519",
+    "status": "new"
+  },
+  "doc_466_先进制造装备.txt": {
+    "hash": "7c22e0ece61e3af6a86b5a565c178d12",
+    "last_modified": "2025-12-15T20:56:38.534663",
+    "status": "new"
+  },
+  "doc_407_ferroelectric_tunnel_junction.txt": {
+    "hash": "1c89ba76db14f54fe7015e1795f58be5",
+    "last_modified": "2025-12-15T20:56:38.534793",
+    "status": "new"
+  },
+  "doc_329_molecular_motors.txt": {
+    "hash": "e9bf31e21e1fc849ac252a04056d7cc1",
+    "last_modified": "2025-12-15T20:56:38.534918",
+    "status": "new"
+  },
+  "doc_453_脑机接口技术.txt": {
+    "hash": "025ab61d7d4d2b4637ac6c28eece0070",
+    "last_modified": "2025-12-15T20:56:38.535048",
+    "status": "new"
+  },
+  "doc_433_autonomous_vehicles_self_driving_cars.txt": {
+    "hash": "2aea630c64bcc7b9b31628551a368a1a",
+    "last_modified": "2025-12-15T20:56:38.535181",
+    "status": "new"
+  },
+  "doc_489_光纤通信技术最新发展.txt": {
+    "hash": "ca235cee2aa7aca502a7f07c24943210",
+    "last_modified": "2025-12-15T20:56:38.535314",
+    "status": "new"
+  },
+  "doc_456_智能材料.txt": {
+    "hash": "68a00158e82ebbc8b910ab5617ea17d8",
+    "last_modified": "2025-12-15T20:56:38.535449",
+    "status": "new"
+  },
+  "doc_136_现代医学神经科学脑科学.txt": {
+    "hash": "bfd25d23260786f13ff6e459b017563a",
+    "last_modified": "2025-12-15T20:56:38.535592",
+    "status": "new"
+  },
+  "doc_236_人类学技术发展与数字人类学应用.txt": {
+    "hash": "b8f52901d34c3addb5dd091c0fb0de6e",
+    "last_modified": "2025-12-15T20:56:38.535718",
+    "status": "new"
+  },
+  "doc_240_政治学技术发展与数字政府应用.txt": {
+    "hash": "4f2b88455101ab809283e530093df60a",
+    "last_modified": "2025-12-15T20:56:38.535845",
+    "status": "new"
+  },
+  "doc_280_量子传感器技术发展前沿.txt": {
+    "hash": "12550bcc4739ead5ddbf1a96593beef6",
+    "last_modified": "2025-12-15T20:56:38.535976",
+    "status": "new"
+  },
+  "doc_288_区块链技术发展现状2024.txt": {
+    "hash": "970e5b1fa707c0c2d14ebe7766adeb27",
+    "last_modified": "2025-12-15T20:56:38.536102",
+    "status": "new"
+  },
+  "doc_192_气象学发展与大气科学应用.txt": {
+    "hash": "4a524399f63e4fb1c8a66b5cafa4e0a4",
+    "last_modified": "2025-12-15T20:56:38.536250",
+    "status": "new"
+  },
+  "doc_74_中世纪哥特式建筑风格特征深度解析.txt": {
+    "hash": "28b534d32822f242c6f0617b0730a55c",
+    "last_modified": "2025-12-15T20:56:38.536382",
+    "status": "new"
+  },
+  "doc_220_语言学技术发展与自然语言处理应用.txt": {
+    "hash": "7332f7a2b80dc0c4c06b4651d8c8cda0",
+    "last_modified": "2025-12-15T20:56:38.536510",
+    "status": "new"
+  },
+  "doc_380_two_dimensional_photodetectors.txt": {
+    "hash": "07049069ab8586c270d451b1b5ea6d29",
+    "last_modified": "2025-12-15T20:56:38.536637",
+    "status": "new"
+  },
+  "doc_293_数字孪生技术工业应用.txt": {
+    "hash": "43110dcb78708c7024e363c2a962273a",
+    "last_modified": "2025-12-15T20:56:38.536766",
+    "status": "new"
+  },
+  "doc_395_active_matrix_organic_light_emitting_diodes.txt": {
+    "hash": "204b368ae9fb56d6c937c34eddcb4126",
+    "last_modified": "2025-12-15T20:56:38.537038",
+    "status": "new"
+  },
+  "doc_420_neuromorphic_computing_memristors.txt": {
+    "hash": "e9f268acd6b3a83eb734ae01dbbc0303",
+    "last_modified": "2025-12-15T20:56:38.537300",
+    "status": "new"
+  },
+  "doc_158_地质学研究进展地球科学.txt": {
+    "hash": "d9872834ac5b76a590c69ea0ec668877",
+    "last_modified": "2025-12-15T20:56:38.537430",
+    "status": "new"
+  },
+  "doc_294_生物3D打印器官技术.txt": {
+    "hash": "0e6b6a89601127a4cae6800e67230bca",
+    "last_modified": "2025-12-15T20:56:38.537560",
+    "status": "new"
+  },
+  "doc_337_fiber_optic_sensors.txt": {
+    "hash": "09704a8e0d6028f22eb791bff795822c",
+    "last_modified": "2025-12-15T20:56:38.537685",
+    "status": "new"
+  },
+  "doc_485_数字孪生技术应用前景.txt": {
+    "hash": "7a089e3615ebf77c9cd4806854b0c19f",
+    "last_modified": "2025-12-15T20:56:38.537812",
+    "status": "new"
+  },
+  "doc_438_robotic_process_automation_AI.txt": {
+    "hash": "ef2ad29c3bbae0b64ea9f0836e8b3b6e",
+    "last_modified": "2025-12-15T20:56:38.537953",
+    "status": "new"
+  },
+  "doc_181_交通运输研究进展智能交通.txt": {
+    "hash": "47f18832b75202a8b4dbc94ae27b77c3",
+    "last_modified": "2025-12-15T20:56:38.538085",
+    "status": "new"
+  },
+  "doc_193_林业科学森林资源管理与保护.txt": {
+    "hash": "9a1313a9d54b5dc4f4753eb05b2de7d3",
+    "last_modified": "2025-12-15T20:56:38.538211",
+    "status": "new"
+  },
+  "doc_242_艺术学技术发展与数字美学应用.txt": {
+    "hash": "fbdc75a52fd5444612d6cf14eafd3dc2",
+    "last_modified": "2025-12-15T20:56:38.538341",
+    "status": "new"
+  },
+  "doc_249_基因治疗医学突破2024.txt": {
+    "hash": "0eb9801dbbf31f1465c1fd05cb1d2881",
+    "last_modified": "2025-12-15T20:56:38.538469",
+    "status": "new"
+  },
+  "doc_290_可持续能源存储技术突破.txt": {
+    "hash": "69bd77a3766319ed3ede613d6fa65ad5",
+    "last_modified": "2025-12-15T20:56:38.538600",
+    "status": "new"
+  },
+  "doc_444_quantum_sensors_quantum_metrology.txt": {
+    "hash": "e4b11a31a314638f8671a099ab7e6f8b",
+    "last_modified": "2025-12-15T20:56:38.538745",
+    "status": "new"
+  },
+  "doc_370_organic_light_emitting_transistors.txt": {
+    "hash": "0995293d3ebb48281ea1863156acfaf8",
+    "last_modified": "2025-12-15T20:56:38.538870",
+    "status": "new"
+  },
+  "doc_143_现代医学影像学诊断医学研究.txt": {
+    "hash": "9fdb68e0899a7581cdff37a398986616",
+    "last_modified": "2025-12-15T20:56:38.539004",
+    "status": "new"
+  },
+  "doc_171_语言学研究进展应用语言学.txt": {
+    "hash": "5e1e538cee5e991b419d0159323ad57f",
+    "last_modified": "2025-12-15T20:56:38.539138",
+    "status": "new"
+  },
+  "doc_261_生物多样性保护技术前沿研究.txt": {
+    "hash": "66aa9f052ac7f89d6cd34d502f507555",
+    "last_modified": "2025-12-15T20:56:38.539272",
+    "status": "new"
+  },
+  "doc_448_virtual_reality_augmented_reality_mixed_reality.txt": {
+    "hash": "24f9b07b9ee8146c6950178b79b21720",
+    "last_modified": "2025-12-15T20:56:38.539417",
+    "status": "new"
+  },
+  "doc_372_terahertz_imaging.txt": {
+    "hash": "9d056c40431db344acf567018c4b8492",
+    "last_modified": "2025-12-15T20:56:38.539544",
+    "status": "new"
+  },
+  "doc_391_organic_photovoltaics_efficiency.txt": {
+    "hash": "9484f56554970b83cde67171bce82120",
+    "last_modified": "2025-12-15T20:56:38.539812",
+    "status": "new"
+  },
+  "doc_216_工业设计技术发展与现代产品设计.txt": {
+    "hash": "0cb31d3fbb8781015f69675e9e8e2f6a",
+    "last_modified": "2025-12-15T20:56:38.539945",
+    "status": "new"
+  },
+  "doc_374_fiber_bragg_grating.txt": {
+    "hash": "fdc5e7fa3f0a0926f3fd21d218d61ec5",
+    "last_modified": "2025-12-15T20:56:38.540072",
+    "status": "new"
+  },
+  "doc_428_artificial_intelligence_machine_learning.txt": {
+    "hash": "c230ed72992c96585d030312e65db956",
+    "last_modified": "2025-12-15T20:56:38.540206",
+    "status": "new"
+  },
+  "doc_217_安全工程技术发展与工业网络安全.txt": {
+    "hash": "9fdd60f532bc1dbf09b01e4b288322fc",
+    "last_modified": "2025-12-15T20:56:38.540336",
+    "status": "new"
+  },
+  "doc_282_类脑计算技术研究发展.txt": {
+    "hash": "bad275509fb7d72f0f20ee068bfb9ddd",
+    "last_modified": "2025-12-15T20:56:38.540472",
+    "status": "new"
+  },
+  "doc_142_现代化学有机化学无机化学.txt": {
+    "hash": "2304ffae40fbb7a3cc1ac5c22a5d8efd",
+    "last_modified": "2025-12-15T20:56:38.540610",
+    "status": "new"
+  },
+  "doc_227_历史学技术发展与数字史学应用.txt": {
+    "hash": "fe49626bb4f8c715ce22cce46a0e6965",
+    "last_modified": "2025-12-15T20:56:38.540741",
+    "status": "new"
+  },
+  "doc_317_量子点显示技术.txt": {
+    "hash": "2709e626bbf2ad687b46a4fe936101f1",
+    "last_modified": "2025-12-15T20:56:38.540903",
+    "status": "new"
+  },
+  "doc_463_虚拟现实增强现实技术.txt": {
+    "hash": "dd8ad8512f5032a6b244f131f7ec8af9",
+    "last_modified": "2025-12-15T20:56:38.541043",
+    "status": "new"
+  },
+  "doc_80_认知心理学记忆机制研究前沿进展.txt": {
+    "hash": "ffec4e0877f730b97cb26585a0e3dbb0",
+    "last_modified": "2025-12-15T20:56:38.541174",
+    "status": "new"
+  },
+  "doc_174_心理学研究进展认知心理学.txt": {
+    "hash": "be5971deee232ab9d173686c45669760",
+    "last_modified": "2025-12-15T20:56:38.541307",
+    "status": "new"
+  },
+  "doc_123_教育学理论学习理论研究教育心理学.txt": {
+    "hash": "478a14be1953dc3fb957eeca2c854c2d",
+    "last_modified": "2025-12-15T20:56:38.541441",
+    "status": "new"
+  },
+  "doc_393_charge_coupled_devices.txt": {
+    "hash": "ab199441f89d083d1571f4c72f07b3c6",
+    "last_modified": "2025-12-15T20:56:38.541569",
+    "status": "new"
+  },
+  "doc_234_戏剧学技术发展与影视数字表演应用.txt": {
+    "hash": "223748686e775d5e9dd7cd79ba82645d",
+    "last_modified": "2025-12-15T20:56:38.541699",
+    "status": "new"
+  },
+  "doc_397_quantum_well_laser_diodes.txt": {
+    "hash": "d36cdaa45793557f880c23523f5f4399",
+    "last_modified": "2025-12-15T20:56:38.541825",
+    "status": "new"
+  },
+  "doc_134_气象学大气科学气候变化研究.txt": {
+    "hash": "226f98081f4d00696ba8bbf57abb7ffc",
+    "last_modified": "2025-12-15T20:56:38.541965",
+    "status": "new"
+  },
+  "doc_211_化学工程技术发展与绿色化工技术.txt": {
+    "hash": "713e385b7ff193b98894c16696f3a8a7",
+    "last_modified": "2025-12-15T20:56:38.542219",
+    "status": "new"
+  },
+  "doc_81_现代天体物理学黑洞研究最新成果解读.txt": {
+    "hash": "d33c426fe4737980170b0ca91c6a571f",
+    "last_modified": "2025-12-15T20:56:38.542349",
+    "status": "new"
+  },
+  "doc_454_新型量子材料.txt": {
+    "hash": "be9d24a2e3f57f15dd7c8e024a7ba4e9",
+    "last_modified": "2025-12-15T20:56:38.542482",
+    "status": "new"
+  },
+  "doc_334_topological_photonics.txt": {
+    "hash": "ce8e333497e645d8eef1dafe93095aeb",
+    "last_modified": "2025-12-15T20:56:38.542606",
+    "status": "new"
+  },
+  "doc_360_holographic_storage.txt": {
+    "hash": "29728a02a349a9f772af7cd6a684a11c",
+    "last_modified": "2025-12-15T20:56:38.542733",
+    "status": "new"
+  },
+  "doc_436_space_technology_satellite_communication.txt": {
+    "hash": "2e9bf4028399cf682c073f340cc5c566",
+    "last_modified": "2025-12-15T20:56:38.542872",
+    "status": "new"
+  },
+  "doc_77_海洋生物学深海研究最新发现与技术突破.txt": {
+    "hash": "63bcca31f8db155438f580cbc7cf187e",
+    "last_modified": "2025-12-15T20:56:38.543002",
+    "status": "new"
+  },
+  "doc_346_superconducting_quantum_interference.txt": {
+    "hash": "8843aa375d11d04f5e1553976066d337",
+    "last_modified": "2025-12-15T20:56:38.543128",
+    "status": "new"
+  },
+  "doc_218_核医学技术发展与医学影像设备应用.txt": {
+    "hash": "c564cdc025416a791b66451522149ee7",
+    "last_modified": "2025-12-15T20:56:38.543257",
+    "status": "new"
+  },
+  "doc_365_flexible_electronics.txt": {
+    "hash": "9248b2ffc7c486ec5788cd9435a05680",
+    "last_modified": "2025-12-15T20:56:38.543381",
+    "status": "new"
+  },
+  "doc_203_机械工程智能制造与工业4.0技术.txt": {
+    "hash": "18aa04d2d08fb126c596a358c7dfba75",
+    "last_modified": "2025-12-15T20:56:38.543508",
+    "status": "new"
+  },
+  "doc_367_electrochromic_devices.txt": {
+    "hash": "de9993ce2f19825884fc3ace52039617",
+    "last_modified": "2025-12-15T20:56:38.543678",
+    "status": "new"
+  },
+  "doc_264_生物医学工程技术创新发展.txt": {
+    "hash": "d57af8b09a7906ff022776793b2d2f6f",
+    "last_modified": "2025-12-15T20:56:38.543845",
+    "status": "new"
+  },
+  "doc_423_fiber_optic_sensors_distributed.txt": {
+    "hash": "5a51804b06dbee1dcdf296ea4952dc9c",
+    "last_modified": "2025-12-15T20:56:38.544112",
+    "status": "new"
+  },
+  "doc_93_现代化学材料科学纳米技术发展与应用前景.txt": {
+    "hash": "ee0816b5bad803f77518db5331f150bd",
+    "last_modified": "2025-12-15T20:56:38.544374",
+    "status": "new"
+  },
+  "doc_212_通信工程技术发展与5G6G移动通信技术.txt": {
+    "hash": "e4230c65b183069da8619d0adf2ee361",
+    "last_modified": "2025-12-15T20:56:38.544505",
+    "status": "new"
+  },
+  "doc_284_数字孪生技术应用发展.txt": {
+    "hash": "6e991c1957c3ee7e74762e43896c9b6a",
+    "last_modified": "2025-12-15T20:56:38.544638",
+    "status": "new"
+  },
+  "doc_443_biomaterials_tissue_engineering_regenerative.txt": {
+    "hash": "2a1a845cf96619cedb9579be9fc2ab88",
+    "last_modified": "2025-12-15T20:56:38.544783",
+    "status": "new"
+  },
+  "doc_235_考古学技术发展与数字考古应用.txt": {
+    "hash": "ad5e1f0743566367baf88326f7b80309",
+    "last_modified": "2025-12-15T20:56:38.544936",
+    "status": "new"
+  },
+  "doc_291_合成生物学应用前景.txt": {
+    "hash": "8ac0da5b00020d183d218a26b08884eb",
+    "last_modified": "2025-12-15T20:56:38.545065",
+    "status": "new"
+  },
+  "doc_328_phononic_crystals.txt": {
+    "hash": "d9f09417eb17d38c3c2554224c4a0958",
+    "last_modified": "2025-12-15T20:56:38.545190",
+    "status": "new"
+  },
+  "doc_322_深海探测技术发展.txt": {
+    "hash": "2fcc47188359ec87eba17fe2063af60c",
+    "last_modified": "2025-12-15T20:56:38.545322",
+    "status": "new"
+  },
+  "doc_87_现代航空航天工程载人航天技术发展历程与前景.txt": {
+    "hash": "b6131c4c442f13e29df9a9b18b199a9d",
+    "last_modified": "2025-12-15T20:56:38.545452",
+    "status": "new"
+  },
+  "doc_301_柔性电子屏幕技术进展.txt": {
+    "hash": "73bb26ee1d532fe03c58357b351cae1b",
+    "last_modified": "2025-12-15T20:56:38.545581",
+    "status": "new"
+  },
+  "doc_150_天体生物学外星生命研究.txt": {
+    "hash": "1276cffadea9270fc61c320ba2c85bca",
+    "last_modified": "2025-12-15T20:56:38.545833",
+    "status": "new"
+  },
+  "doc_260_区块链技术发展趋势2024.txt": {
+    "hash": "2455958897bbb50d9208bd70472b8b64",
+    "last_modified": "2025-12-15T20:56:38.545963",
+    "status": "new"
+  }
+}

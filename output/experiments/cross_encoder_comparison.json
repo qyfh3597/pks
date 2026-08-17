@@ -1,0 +1,201 @@
+{
+  "queries": [
+    {
+      "query": "什么是机器学习？",
+      "pure_semantic": {
+        "ndcg@5": 0.9964823827869893,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9964118105731611,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9955362192512152,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "微服务架构设计原则",
+      "pure_semantic": {
+        "ndcg@5": 0.995886070271793,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9864918056371552,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9996974897466758,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "容器编排技术",
+      "pure_semantic": {
+        "ndcg@5": 0.99974502549261,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9982575954227005,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9984860220870385,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "Python编程最佳实践",
+      "pure_semantic": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9760936380027645,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9973967884139372,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "深度学习神经网络原理",
+      "pure_semantic": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9937755503191299,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "中国古代文学发展历程",
+      "pure_semantic": {
+        "ndcg@5": 0.999066819835068,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.993971961078702,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "量子物理学基础概念",
+      "pure_semantic": {
+        "ndcg@5": 0.9950203559261503,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9945298235672219,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9952395346872265,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "现代医学免疫治疗技术",
+      "pure_semantic": {
+        "ndcg@5": 0.9981881029415062,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9929205365809698,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9990608448921676,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "区块链技术原理与应用",
+      "pure_semantic": {
+        "ndcg@5": 0.9964415685583943,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9995588828576636,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9984672015922513,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    },
+    {
+      "query": "人工智能芯片发展现状",
+      "pure_semantic": {
+        "ndcg@5": 0.9975297602327106,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "hybrid_rerank": {
+        "ndcg@5": 0.9993775507308945,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      },
+      "cross_encoder": {
+        "ndcg@5": 0.9973468482982067,
+        "precision@5": 1.0,
+        "map@5": 1.0
+      }
+    }
+  ],
+  "summary": {
+    "pure_semantic": {
+      "ndcg@5": 0.9978360086045222,
+      "precision@5": 1.0,
+      "map@5": 1.0
+    },
+    "hybrid_rerank": {
+      "ndcg@5": 0.9943641643372532,
+      "precision@5": 1.0,
+      "map@5": 1.0
+    },
+    "cross_encoder": {
+      "ndcg@5": 0.9968978460366552,
+      "precision@5": 1.0,
+      "map@5": 1.0
+    }
+  }
+}
